@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Level/Parcours_4.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: aec23b0ef6b57eb4196a0ae6d4ec4687
+timeCreated: 1465648598
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Map4LianeMario_0
+    21300002: Map4LianeMario_1
+    21300004: Map4LianeMario_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Map4LianeMario_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 49.5}
+        - {x: -35.5, y: -49.5}
+        - {x: 35.5, y: -49.5}
+        - {x: 35.5, y: 49.5}
+    - name: Map4LianeMario_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 71
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 78.5}
+        - {x: -35.5, y: -78.5}
+        - {x: 35.5, y: -78.5}
+        - {x: 35.5, y: 78.5}
+    - name: Map4LianeMario_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 46.5}
+        - {x: -35.5, y: -46.5}
+        - {x: 35.5, y: -46.5}
+        - {x: 35.5, y: 46.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1545 @@
+fileFormatVersion: 2
+guid: 9211c479b866bdd46a96e1cdb893ad09
+timeCreated: 1465665097
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LuigiWorld_0
+    21300002: LuigiWorld_1
+    21300004: LuigiWorld_2
+    21300006: LuigiWorld_3
+    21300008: LuigiWorld_4
+    21300010: LuigiWorld_5
+    21300012: LuigiWorld_6
+    21300014: LuigiWorld_7
+    21300016: LuigiWorld_8
+    21300018: LuigiWorld_9
+    21300020: LuigiWorld_10
+    21300022: LuigiWorld_11
+    21300024: LuigiWorld_12
+    21300026: LuigiWorld_13
+    21300028: LuigiWorld_14
+    21300030: LuigiWorld_15
+    21300032: LuigiWorld_16
+    21300034: LuigiWorld_17
+    21300036: LuigiWorld_18
+    21300038: LuigiWorld_19
+    21300040: LuigiWorld_20
+    21300042: LuigiWorld_21
+    21300044: LuigiWorld_22
+    21300046: LuigiWorld_23
+    21300048: LuigiWorld_24
+    21300050: LuigiWorld_25
+    21300052: LuigiWorld_26
+    21300054: LuigiWorld_27
+    21300056: LuigiWorld_28
+    21300058: LuigiWorld_29
+    21300060: LuigiWorld_30
+    21300062: LuigiWorld_31
+    21300064: LuigiWorld_32
+    21300066: LuigiWorld_33
+    21300068: LuigiWorld_34
+    21300070: LuigiWorld_35
+    21300072: LuigiWorld_36
+    21300074: LuigiWorld_37
+    21300076: LuigiWorld_38
+    21300078: LuigiWorld_39
+    21300080: LuigiWorld_40
+    21300082: LuigiWorld_41
+    21300084: LuigiWorld_42
+    21300086: LuigiWorld_43
+    21300088: LuigiWorld_44
+    21300090: LuigiWorld_45
+    21300092: LuigiWorld_46
+    21300094: LuigiWorld_47
+    21300096: LuigiWorld_48
+    21300098: LuigiWorld_49
+    21300100: LuigiWorld_50
+    21300102: LuigiWorld_51
+    21300104: LuigiWorld_52
+    21300106: LuigiWorld_53
+    21300108: LuigiWorld_54
+    21300110: LuigiWorld_55
+    21300112: LuigiWorld_56
+    21300114: LuigiWorld_57
+    21300116: LuigiWorld_58
+    21300118: LuigiWorld_59
+    21300120: LuigiWorld_60
+    21300122: LuigiWorld_61
+    21300124: LuigiWorld_62
+    21300126: LuigiWorld_63
+    21300128: LuigiWorld_64
+    21300130: LuigiWorld_65
+    21300132: LuigiWorld_66
+    21300134: LuigiWorld_67
+    21300136: LuigiWorld_68
+    21300138: LuigiWorld_69
+    21300140: LuigiWorld_70
+    21300142: LuigiWorld_71
+    21300144: LuigiWorld_72
+    21300146: LuigiWorld_73
+    21300148: LuigiWorld_74
+    21300150: LuigiWorld_75
+    21300152: LuigiWorld_76
+    21300154: LuigiWorld_77
+    21300156: LuigiWorld_78
+    21300158: LuigiWorld_79
+    21300160: LuigiWorld_80
+    21300162: LuigiWorld_81
+    21300164: LuigiWorld_82
+    21300166: LuigiWorld_83
+    21300168: LuigiWorld_84
+    21300170: LuigiWorld_85
+    21300172: LuigiWorld_86
+    21300174: LuigiWorld_87
+    21300176: LuigiWorld_88
+    21300178: LuigiWorld_89
+    21300180: LuigiWorld_90
+    21300182: LuigiWorld_91
+    21300184: LuigiWorld_92
+    21300186: LuigiWorld_93
+    21300188: LuigiWorld_94
+    21300190: LuigiWorld_95
+    21300192: LuigiWorld_96
+    21300194: LuigiWorld_97
+    21300196: LuigiWorld_98
+    21300198: LuigiWorld_99
+    21300200: LuigiWorld_100
+    21300202: LuigiWorld_101
+    21300204: LuigiWorld_102
+    21300206: LuigiWorld_103
+    21300208: LuigiWorld_104
+    21300210: LuigiWorld_105
+    21300212: LuigiWorld_106
+    21300214: LuigiWorld_107
+    21300216: LuigiWorld_108
+    21300218: LuigiWorld_109
+    21300220: LuigiWorld_110
+    21300222: LuigiWorld_111
+    21300224: LuigiWorld_112
+    21300226: LuigiWorld_113
+    21300228: LuigiWorld_114
+    21300230: LuigiWorld_115
+    21300232: LuigiWorld_116
+    21300234: LuigiWorld_117
+    21300236: LuigiWorld_118
+    21300238: LuigiWorld_119
+    21300240: LuigiWorld_120
+    21300242: LuigiWorld_121
+    21300244: LuigiWorld_122
+    21300246: LuigiWorld_123
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LuigiWorld_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 220
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 220
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 219
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 220
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_12
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 220
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 220
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 221
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_18
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 221
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 223
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_20
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 220
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 222
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 219
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_24
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 224
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_25
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 225
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 177
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 177
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_30
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 177
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 177
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_35
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 177
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_38
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 177
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 177
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 177
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 177
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_42
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_43
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 177
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_45
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 177
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_47
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 177
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_48
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 178
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_50
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 178
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_51
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 178
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_52
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 178
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_53
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 177
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_54
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 177
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_55
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 177
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_57
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 132
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 131
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 132
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 130
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_63
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 130
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 130
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_65
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 130
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_66
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 130
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_67
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 127
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_68
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 127
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_69
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 127
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_70
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 134
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_71
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 133
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_72
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 133
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_73
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 136
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_74
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 133
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_75
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 133
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_77
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_78
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_79
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 136
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_80
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 136
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_81
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 138
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_82
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 134
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_83
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 132
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_84
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 123
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_85
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 103
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_86
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 103
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_87
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 102
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_89
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 105
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 104
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_91
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 93
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 48
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_95
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_97
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 48
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_98
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_100
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_101
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_102
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_103
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 48
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_104
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_105
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 48
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_106
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 48
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_107
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_108
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 48
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_109
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_110
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_111
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 48
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_112
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_113
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_114
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 48
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_115
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 48
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_116
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 49
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_117
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 49
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_118
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 49
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_119
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 49
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_120
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 49
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 48
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_122
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 48
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: LuigiWorld_123
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 48
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

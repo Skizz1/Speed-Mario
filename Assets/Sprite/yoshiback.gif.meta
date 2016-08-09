@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: a89cd4e8044e26a49a1e2e7a0d854006
+timeCreated: 1465724687
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yoshiback_0
+    21300002: yoshiback_1
+    21300004: yoshiback_2
+    21300006: yoshiback_3
+    21300008: yoshiback_4
+    21300010: yoshiback_5
+    21300012: yoshiback_6
+    21300014: yoshiback_7
+    21300016: yoshiback_8
+    21300018: yoshiback_9
+    21300020: yoshiback_10
+    21300022: yoshiback_11
+    21300024: yoshiback_12
+    21300026: yoshiback_13
+    21300028: yoshiback_14
+    21300030: yoshiback_15
+    21300032: yoshiback_16
+    21300034: yoshiback_17
+    21300036: yoshiback_18
+    21300038: yoshiback_19
+    21300040: yoshiback_20
+    21300042: yoshiback_21
+    21300044: yoshiback_22
+    21300046: yoshiback_23
+    21300048: yoshiback_24
+    21300050: yoshiback_25
+    21300052: yoshiback_26
+    21300054: yoshiback_27
+    21300056: yoshiback_28
+    21300058: yoshiback_29
+    21300060: yoshiback_30
+    21300062: yoshiback_31
+    21300064: yoshiback_32
+    21300066: yoshiback_33
+    21300068: yoshiback_34
+    21300070: yoshiback_35
+    21300072: yoshiback_36
+    21300074: yoshiback_37
+    21300076: yoshiback_38
+    21300078: yoshiback_39
+    21300080: yoshiback_40
+    21300082: yoshiback_41
+    21300084: yoshiback_42
+    21300086: yoshiback_43
+    21300088: yoshiback_44
+    21300090: yoshiback_45
+    21300092: yoshiback_46
+    21300094: yoshiback_47
+    21300096: yoshiback_48
+    21300098: yoshiback_49
+    21300100: yoshiback_50
+    21300102: yoshiback_51
+    21300104: yoshiback_52
+    21300106: yoshiback_53
+    21300108: yoshiback_54
+    21300110: yoshiback_55
+    21300112: yoshiback_56
+    21300114: yoshiback_57
+    21300116: yoshiback_58
+    21300118: yoshiback_59
+    21300120: yoshiback_60
+    21300122: yoshiback_61
+    21300124: yoshiback_62
+    21300126: yoshiback_63
+    21300128: yoshiback_64
+    21300130: yoshiback_65
+    21300132: yoshiback_66
+    21300134: yoshiback_67
+    21300136: yoshiback_68
+    21300138: yoshiback_69
+    21300140: yoshiback_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: yoshiback_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 243
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 243
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 243
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 243
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 243
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 243
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 243
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 243
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 243
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_15
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 243
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 203
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 206
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 203
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 207
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 206
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 202
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_23
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 205
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 200
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 197
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 199
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 197
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_28
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 203
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_29
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 200
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_30
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 197
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_31
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 148
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 148
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_33
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 148
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_34
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 151
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_36
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 148
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_37
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 148
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 148
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_39
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 148
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_40
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 148
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 148
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 99
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 99
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 99
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_45
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_46
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_47
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_48
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_49
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_52
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_53
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_54
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_55
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_57
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 8
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 8
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 27
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_62
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_64
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 8
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_66
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 8
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_67
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 8
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_68
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 8
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 8
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshiback_70
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

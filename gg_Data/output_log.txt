@@ -1,0 +1,1566 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     912 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+- Completed reload, in  0.215 seconds
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Labxone\Desktop\comon\save 2\gg_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.386815 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: c70 -> priority: 1 
+6/13/2016 9:32:39 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:33:00 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:33:21 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:33:42 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:34:03 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:34:24 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:34:45 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:35:06 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:35:27 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:35:48 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:36:09 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:36:30 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:36:51 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:37:12 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:37:33 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:37:54 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:38:15 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:38:36 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:38:57 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:39:18 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:39:40 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:40:01 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:40:22 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:40:43 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:41:04 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:41:25 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:41:46 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:42:07 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:42:28 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:42:49 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:43:10 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:43:31 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:43:52 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:44:13 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:44:34 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:44:55 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:45:16 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:45:37 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:45:58 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:46:19 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:46:40 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:47:01 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:47:22 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:47:43 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:48:04 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:48:25 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:48:46 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:49:07 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:49:28 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:49:49 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:50:10 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:50:31 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:50:52 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:51:13 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:51:34 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:51:55 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:52:16 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:52:37 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:52:58 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:53:19 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:53:40 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:54:01 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:54:22 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:54:43 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:55:04 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:55:25 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:55:46 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:56:07 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:56:28 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:56:49 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:57:10 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:57:31 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:57:52 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:58:13 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:58:34 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+6/13/2016 9:58:55 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+The referenced script on this Behaviour (Game Object 'Button1') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button2') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'RawImage') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button3') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 47.663605 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 4178.
+Total: 17.970015 ms (FindLiveObjects: 5.666143 ms CreateObjectMapping: 0.218948 ms MarkObjects: 12.034462 ms  DeleteObjects: 0.049177 ms)
+
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:01 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:02 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:03 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:04 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:05 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:06 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:07 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 21.845657 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 796.
+Total: 1.884153 ms (FindLiveObjects: 0.117171 ms CreateObjectMapping: 0.072270 ms MarkObjects: 1.409480 ms  DeleteObjects: 0.283521 ms)
+
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:09 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:10 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:11 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:12 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+The referenced script on this Behaviour (Game Object 'Button1') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button2') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'RawImage') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Camera') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'Button3') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.865530 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4205.
+Total: 2.399451 ms (FindLiveObjects: 0.376317 ms CreateObjectMapping: 0.186020 ms MarkObjects: 1.776817 ms  DeleteObjects: 0.058585 ms)
+
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:13 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:14 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:15 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:16 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:17 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:18 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:19 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.261133 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 796.
+Total: 1.449677 ms (FindLiveObjects: 0.184737 ms CreateObjectMapping: 0.066710 ms MarkObjects: 1.011780 ms  DeleteObjects: 0.182599 ms)
+
+WWW Error: Failed to connect to 10.100.254.142 port 2020: Timed out
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:21 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.
+6/13/2016 9:59:22 PM|Error|WebSocket.Send|A WebSocket connection isn't established.

@@ -1,0 +1,5879 @@
+fileFormatVersion: 2
+guid: 9a63b626c063bc54893912bd4d3c0812
+timeCreated: 1465241229
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: donkey-kong-3_0
+    21300002: donkey-kong-3_1
+    21300004: donkey-kong-3_2
+    21300006: donkey-kong-3_3
+    21300008: donkey-kong-3_4
+    21300010: donkey-kong-3_5
+    21300012: donkey-kong-3_6
+    21300014: donkey-kong-3_7
+    21300016: donkey-kong-3_8
+    21300018: donkey-kong-3_9
+    21300020: donkey-kong-3_10
+    21300022: donkey-kong-3_11
+    21300024: donkey-kong-3_12
+    21300026: donkey-kong-3_13
+    21300028: donkey-kong-3_14
+    21300030: donkey-kong-3_15
+    21300032: donkey-kong-3_16
+    21300034: donkey-kong-3_17
+    21300036: donkey-kong-3_18
+    21300038: donkey-kong-3_19
+    21300040: donkey-kong-3_20
+    21300042: donkey-kong-3_21
+    21300044: donkey-kong-3_22
+    21300046: donkey-kong-3_23
+    21300048: donkey-kong-3_24
+    21300050: donkey-kong-3_25
+    21300052: donkey-kong-3_26
+    21300054: donkey-kong-3_27
+    21300056: donkey-kong-3_28
+    21300058: donkey-kong-3_29
+    21300060: donkey-kong-3_30
+    21300062: donkey-kong-3_31
+    21300064: donkey-kong-3_32
+    21300066: donkey-kong-3_33
+    21300068: donkey-kong-3_34
+    21300070: donkey-kong-3_35
+    21300072: donkey-kong-3_36
+    21300074: donkey-kong-3_37
+    21300076: donkey-kong-3_38
+    21300078: donkey-kong-3_39
+    21300080: donkey-kong-3_40
+    21300082: donkey-kong-3_41
+    21300084: donkey-kong-3_42
+    21300086: donkey-kong-3_43
+    21300088: donkey-kong-3_44
+    21300090: donkey-kong-3_45
+    21300092: donkey-kong-3_46
+    21300094: donkey-kong-3_47
+    21300096: donkey-kong-3_48
+    21300098: donkey-kong-3_49
+    21300100: donkey-kong-3_50
+    21300102: donkey-kong-3_51
+    21300104: donkey-kong-3_52
+    21300106: donkey-kong-3_53
+    21300108: donkey-kong-3_54
+    21300110: donkey-kong-3_55
+    21300112: donkey-kong-3_56
+    21300114: donkey-kong-3_57
+    21300116: donkey-kong-3_58
+    21300118: donkey-kong-3_59
+    21300120: donkey-kong-3_60
+    21300122: donkey-kong-3_61
+    21300124: donkey-kong-3_62
+    21300126: donkey-kong-3_63
+    21300128: donkey-kong-3_64
+    21300130: donkey-kong-3_65
+    21300132: donkey-kong-3_66
+    21300134: donkey-kong-3_67
+    21300136: donkey-kong-3_68
+    21300138: donkey-kong-3_69
+    21300140: donkey-kong-3_70
+    21300142: donkey-kong-3_71
+    21300144: donkey-kong-3_72
+    21300146: donkey-kong-3_73
+    21300148: donkey-kong-3_74
+    21300150: donkey-kong-3_75
+    21300152: donkey-kong-3_76
+    21300154: donkey-kong-3_77
+    21300156: donkey-kong-3_78
+    21300158: donkey-kong-3_79
+    21300160: donkey-kong-3_80
+    21300162: donkey-kong-3_81
+    21300164: donkey-kong-3_82
+    21300166: donkey-kong-3_83
+    21300168: donkey-kong-3_84
+    21300170: donkey-kong-3_85
+    21300172: donkey-kong-3_86
+    21300174: donkey-kong-3_87
+    21300176: donkey-kong-3_88
+    21300178: donkey-kong-3_89
+    21300180: donkey-kong-3_90
+    21300182: donkey-kong-3_91
+    21300184: donkey-kong-3_92
+    21300186: donkey-kong-3_93
+    21300188: donkey-kong-3_94
+    21300190: donkey-kong-3_95
+    21300192: donkey-kong-3_96
+    21300194: donkey-kong-3_97
+    21300196: donkey-kong-3_98
+    21300198: donkey-kong-3_99
+    21300200: donkey-kong-3_100
+    21300202: donkey-kong-3_101
+    21300204: donkey-kong-3_102
+    21300206: donkey-kong-3_103
+    21300208: donkey-kong-3_104
+    21300210: donkey-kong-3_105
+    21300212: donkey-kong-3_106
+    21300214: donkey-kong-3_107
+    21300216: donkey-kong-3_108
+    21300218: donkey-kong-3_109
+    21300220: donkey-kong-3_110
+    21300222: donkey-kong-3_111
+    21300224: donkey-kong-3_112
+    21300226: donkey-kong-3_113
+    21300228: donkey-kong-3_114
+    21300230: donkey-kong-3_115
+    21300232: donkey-kong-3_116
+    21300234: donkey-kong-3_117
+    21300236: donkey-kong-3_118
+    21300238: donkey-kong-3_119
+    21300240: donkey-kong-3_120
+    21300242: donkey-kong-3_121
+    21300244: donkey-kong-3_122
+    21300246: donkey-kong-3_123
+    21300248: donkey-kong-3_124
+    21300250: donkey-kong-3_125
+    21300252: donkey-kong-3_126
+    21300254: donkey-kong-3_127
+    21300256: donkey-kong-3_128
+    21300258: donkey-kong-3_129
+    21300260: donkey-kong-3_130
+    21300262: donkey-kong-3_131
+    21300264: donkey-kong-3_132
+    21300266: donkey-kong-3_133
+    21300268: donkey-kong-3_134
+    21300270: donkey-kong-3_135
+    21300272: donkey-kong-3_136
+    21300274: donkey-kong-3_137
+    21300276: donkey-kong-3_138
+    21300278: donkey-kong-3_139
+    21300280: donkey-kong-3_140
+    21300282: donkey-kong-3_141
+    21300284: donkey-kong-3_142
+    21300286: donkey-kong-3_143
+    21300288: donkey-kong-3_144
+    21300290: donkey-kong-3_145
+    21300292: donkey-kong-3_146
+    21300294: donkey-kong-3_147
+    21300296: donkey-kong-3_148
+    21300298: donkey-kong-3_149
+    21300300: donkey-kong-3_150
+    21300302: donkey-kong-3_151
+    21300304: donkey-kong-3_152
+    21300306: donkey-kong-3_153
+    21300308: donkey-kong-3_154
+    21300310: donkey-kong-3_155
+    21300312: donkey-kong-3_156
+    21300314: donkey-kong-3_157
+    21300316: donkey-kong-3_158
+    21300318: donkey-kong-3_159
+    21300320: donkey-kong-3_160
+    21300322: donkey-kong-3_161
+    21300324: donkey-kong-3_162
+    21300326: donkey-kong-3_163
+    21300328: donkey-kong-3_164
+    21300330: donkey-kong-3_165
+    21300332: donkey-kong-3_166
+    21300334: donkey-kong-3_167
+    21300336: donkey-kong-3_168
+    21300338: donkey-kong-3_169
+    21300340: donkey-kong-3_170
+    21300342: donkey-kong-3_171
+    21300344: donkey-kong-3_172
+    21300346: donkey-kong-3_173
+    21300348: donkey-kong-3_174
+    21300350: donkey-kong-3_175
+    21300352: donkey-kong-3_176
+    21300354: donkey-kong-3_177
+    21300356: donkey-kong-3_178
+    21300358: donkey-kong-3_179
+    21300360: donkey-kong-3_180
+    21300362: donkey-kong-3_181
+    21300364: donkey-kong-3_182
+    21300366: donkey-kong-3_183
+    21300368: donkey-kong-3_184
+    21300370: donkey-kong-3_185
+    21300372: donkey-kong-3_186
+    21300374: donkey-kong-3_187
+    21300376: donkey-kong-3_188
+    21300378: donkey-kong-3_189
+    21300380: donkey-kong-3_190
+    21300382: donkey-kong-3_191
+    21300384: donkey-kong-3_192
+    21300386: donkey-kong-3_193
+    21300388: donkey-kong-3_194
+    21300390: donkey-kong-3_195
+    21300392: donkey-kong-3_196
+    21300394: donkey-kong-3_197
+    21300396: donkey-kong-3_198
+    21300398: donkey-kong-3_199
+    21300400: donkey-kong-3_200
+    21300402: donkey-kong-3_201
+    21300404: donkey-kong-3_202
+    21300406: donkey-kong-3_203
+    21300408: donkey-kong-3_204
+    21300410: donkey-kong-3_205
+    21300412: donkey-kong-3_206
+    21300414: donkey-kong-3_207
+    21300416: donkey-kong-3_208
+    21300418: donkey-kong-3_209
+    21300420: donkey-kong-3_210
+    21300422: donkey-kong-3_211
+    21300424: donkey-kong-3_212
+    21300426: donkey-kong-3_213
+    21300428: donkey-kong-3_214
+    21300430: donkey-kong-3_215
+    21300432: donkey-kong-3_216
+    21300434: donkey-kong-3_217
+    21300436: donkey-kong-3_218
+    21300438: donkey-kong-3_219
+    21300440: donkey-kong-3_220
+    21300442: donkey-kong-3_221
+    21300444: donkey-kong-3_222
+    21300446: donkey-kong-3_223
+    21300448: donkey-kong-3_224
+    21300450: donkey-kong-3_225
+    21300452: donkey-kong-3_226
+    21300454: donkey-kong-3_227
+    21300456: donkey-kong-3_228
+    21300458: donkey-kong-3_229
+    21300460: donkey-kong-3_230
+    21300462: donkey-kong-3_231
+    21300464: donkey-kong-3_232
+    21300466: donkey-kong-3_233
+    21300468: donkey-kong-3_234
+    21300470: donkey-kong-3_235
+    21300472: donkey-kong-3_236
+    21300474: donkey-kong-3_237
+    21300476: donkey-kong-3_238
+    21300478: donkey-kong-3_239
+    21300480: donkey-kong-3_240
+    21300482: donkey-kong-3_241
+    21300484: donkey-kong-3_242
+    21300486: donkey-kong-3_243
+    21300488: donkey-kong-3_244
+    21300490: donkey-kong-3_245
+    21300492: donkey-kong-3_246
+    21300494: donkey-kong-3_247
+    21300496: donkey-kong-3_248
+    21300498: donkey-kong-3_249
+    21300500: donkey-kong-3_250
+    21300502: donkey-kong-3_251
+    21300504: donkey-kong-3_252
+    21300506: donkey-kong-3_253
+    21300508: donkey-kong-3_254
+    21300510: donkey-kong-3_255
+    21300512: donkey-kong-3_256
+    21300514: donkey-kong-3_257
+    21300516: donkey-kong-3_258
+    21300518: donkey-kong-3_259
+    21300520: donkey-kong-3_260
+    21300522: donkey-kong-3_261
+    21300524: donkey-kong-3_262
+    21300526: donkey-kong-3_263
+    21300528: donkey-kong-3_264
+    21300530: donkey-kong-3_265
+    21300532: donkey-kong-3_266
+    21300534: donkey-kong-3_267
+    21300536: donkey-kong-3_268
+    21300538: donkey-kong-3_269
+    21300540: donkey-kong-3_270
+    21300542: donkey-kong-3_271
+    21300544: donkey-kong-3_272
+    21300546: donkey-kong-3_273
+    21300548: donkey-kong-3_274
+    21300550: donkey-kong-3_275
+    21300552: donkey-kong-3_276
+    21300554: donkey-kong-3_277
+    21300556: donkey-kong-3_278
+    21300558: donkey-kong-3_279
+    21300560: donkey-kong-3_280
+    21300562: donkey-kong-3_281
+    21300564: donkey-kong-3_282
+    21300566: donkey-kong-3_283
+    21300568: donkey-kong-3_284
+    21300570: donkey-kong-3_285
+    21300572: donkey-kong-3_286
+    21300574: donkey-kong-3_287
+    21300576: donkey-kong-3_288
+    21300578: donkey-kong-3_289
+    21300580: donkey-kong-3_290
+    21300582: donkey-kong-3_291
+    21300584: donkey-kong-3_292
+    21300586: donkey-kong-3_293
+    21300588: donkey-kong-3_294
+    21300590: donkey-kong-3_295
+    21300592: donkey-kong-3_296
+    21300594: donkey-kong-3_297
+    21300596: donkey-kong-3_298
+    21300598: donkey-kong-3_299
+    21300600: donkey-kong-3_300
+    21300602: donkey-kong-3_301
+    21300604: donkey-kong-3_302
+    21300606: donkey-kong-3_303
+    21300608: donkey-kong-3_304
+    21300610: donkey-kong-3_305
+    21300612: donkey-kong-3_306
+    21300614: donkey-kong-3_307
+    21300616: donkey-kong-3_308
+    21300618: donkey-kong-3_309
+    21300620: donkey-kong-3_310
+    21300622: donkey-kong-3_311
+    21300624: donkey-kong-3_312
+    21300626: donkey-kong-3_313
+    21300628: donkey-kong-3_314
+    21300630: donkey-kong-3_315
+    21300632: donkey-kong-3_316
+    21300634: donkey-kong-3_317
+    21300636: donkey-kong-3_318
+    21300638: donkey-kong-3_319
+    21300640: donkey-kong-3_320
+    21300642: donkey-kong-3_321
+    21300644: donkey-kong-3_322
+    21300646: donkey-kong-3_323
+    21300648: donkey-kong-3_324
+    21300650: donkey-kong-3_325
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 25
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: donkey-kong-3_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1611
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 18.5}
+        - {x: -23, y: 18.5}
+        - {x: -23, y: -7.5}
+        - {x: -20, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 23, y: -17.5}
+        - {x: 23, y: -5.5}
+        - {x: 14, y: 13.5}
+    - name: donkey-kong-3_1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1611
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 19}
+        - {x: -22, y: -8}
+        - {x: -19, y: -19}
+        - {x: 22, y: -19}
+        - {x: 22, y: -6}
+        - {x: 20, y: 0}
+        - {x: 8, y: 19}
+    - name: donkey-kong-3_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1611
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 19}
+        - {x: -21.5, y: -8}
+        - {x: -18.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 13}
+        - {x: 11.5, y: 19}
+    - name: donkey-kong-3_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1611
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19}
+        - {x: -19.5, y: -5}
+        - {x: -9.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 19.5, y: 15}
+        - {x: 2.5, y: 19}
+    - name: donkey-kong-3_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1611
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 18}
+        - {x: -2, y: 19}
+        - {x: -19, y: 19}
+        - {x: -19, y: -3}
+        - {x: -16, y: -4}
+        - {x: -10, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 4}
+        - {x: 11, y: 15}
+    - name: donkey-kong-3_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1611
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 19}
+        - {x: -5, y: 17}
+        - {x: -10, y: 14}
+        - {x: -19, y: 5}
+        - {x: -19, y: -19}
+        - {x: 16, y: -19}
+        - {x: 19, y: -5}
+        - {x: 19, y: 19}
+    - name: donkey-kong-3_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1611
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19}
+        - {x: -19.5, y: 9}
+        - {x: -19.5, y: -19}
+        - {x: 15.5, y: -19}
+        - {x: 19.5, y: -10}
+        - {x: 19.5, y: 19}
+    - name: donkey-kong-3_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1611
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 19}
+        - {x: -21.5, y: 3}
+        - {x: -21.5, y: -19}
+        - {x: 9.5, y: -19}
+        - {x: 21.5, y: -8}
+        - {x: 21.5, y: 19}
+    - name: donkey-kong-3_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1611
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -22, y: -3}
+        - {x: -22, y: -18}
+        - {x: -20, y: -19}
+        - {x: 12, y: -19}
+        - {x: 22, y: -13}
+        - {x: 22, y: 19}
+    - name: donkey-kong-3_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1611
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 18.5}
+        - {x: -18, y: 16.5}
+        - {x: -23, y: -1.5}
+        - {x: -23, y: -14.5}
+        - {x: -19, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 23, y: -4.5}
+        - {x: 23, y: 18.5}
+    - name: donkey-kong-3_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1561
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -2}
+        - {x: -17, y: -4}
+        - {x: -14, y: -14}
+        - {x: -8, y: -20}
+        - {x: 18, y: -20}
+        - {x: 20, y: -17}
+        - {x: 20, y: 10}
+        - {x: 5, y: 20}
+    - name: donkey-kong-3_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1561
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 19.5}
+        - {x: -21, y: -4.5}
+        - {x: -14, y: -19.5}
+        - {x: 21, y: -19.5}
+        - {x: 21, y: 6.5}
+        - {x: 16, y: 19.5}
+    - name: donkey-kong-3_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1561
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 19}
+        - {x: -21.5, y: -7}
+        - {x: -16.5, y: -19}
+        - {x: 19.5, y: -19}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 0}
+        - {x: 13.5, y: 19}
+    - name: donkey-kong-3_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1561
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 18.5}
+        - {x: -22, y: -18.5}
+        - {x: 22, y: -18.5}
+        - {x: 22, y: 0.5}
+        - {x: 11, y: 18.5}
+    - name: donkey-kong-3_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1561
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 18}
+        - {x: -22.5, y: -9}
+        - {x: -20.5, y: -18}
+        - {x: 22.5, y: -18}
+        - {x: 22.5, y: -1}
+        - {x: 9.5, y: 18}
+    - name: donkey-kong-3_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1561
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 18}
+        - {x: -22.5, y: 1}
+        - {x: -22.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 22.5, y: -7}
+        - {x: 22.5, y: 18}
+    - name: donkey-kong-3_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1561
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18.5}
+        - {x: -22, y: -5.5}
+        - {x: -22, y: -14.5}
+        - {x: -17, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 22, y: -6.5}
+        - {x: 22, y: 18.5}
+    - name: donkey-kong-3_17
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1561
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 19}
+        - {x: -21.5, y: 2}
+        - {x: -21.5, y: -19}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 19}
+    - name: donkey-kong-3_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1561
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 19.5}
+        - {x: -16, y: 10.5}
+        - {x: -21, y: 3.5}
+        - {x: -21, y: -19.5}
+        - {x: 15, y: -19.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 19.5}
+    - name: donkey-kong-3_19
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1561
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 20}
+        - {x: -20, y: 3}
+        - {x: -20, y: -18}
+        - {x: -12, y: -20}
+        - {x: 12, y: -20}
+        - {x: 20, y: -11}
+        - {x: 20, y: 20}
+    - name: donkey-kong-3_20
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1509
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 19}
+        - {x: -20, y: -18}
+        - {x: -17, y: -19}
+        - {x: 20, y: -19}
+        - {x: 20, y: 10}
+        - {x: 6, y: 19}
+    - name: donkey-kong-3_21
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1509
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 19.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -20.5, y: -14.5}
+        - {x: -14.5, y: -19.5}
+        - {x: 15.5, y: -19.5}
+        - {x: 20.5, y: -16.5}
+        - {x: 20.5, y: 2.5}
+        - {x: 5.5, y: 19.5}
+    - name: donkey-kong-3_22
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1509
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -11}
+        - {x: -18, y: -13}
+        - {x: -11, y: -13}
+        - {x: -8, y: -10}
+        - {x: 0, y: -20}
+        - {x: 15, y: -20}
+        - {x: 20, y: -18}
+        - {x: 20, y: 2}
+        - {x: 6, y: 20}
+    - name: donkey-kong-3_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1509
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20.5}
+        - {x: -19.5, y: -9.5}
+        - {x: -17.5, y: -14.5}
+        - {x: -9.5, y: -13.5}
+        - {x: -2.5, y: -20.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 5.5}
+        - {x: 11.5, y: 20.5}
+    - name: donkey-kong-3_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1509
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 20.5}
+        - {x: -19, y: -5.5}
+        - {x: -17, y: -14.5}
+        - {x: -15, y: -16.5}
+        - {x: -9, y: -16.5}
+        - {x: -4, y: -13.5}
+        - {x: -5, y: -10.5}
+        - {x: -4, y: -19.5}
+        - {x: -4, y: -20.5}
+        - {x: 19, y: -20.5}
+        - {x: 19, y: 7.5}
+        - {x: 10, y: 20.5}
+    - name: donkey-kong-3_25
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1509
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20.5}
+        - {x: -19, y: 12.5}
+        - {x: -19, y: -19.5}
+        - {x: -15, y: -20.5}
+        - {x: 13, y: -20.5}
+        - {x: 19, y: -18.5}
+        - {x: 19, y: 20.5}
+    - name: donkey-kong-3_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1509
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 20.5}
+        - {x: -19.5, y: 11.5}
+        - {x: -19.5, y: -20.5}
+        - {x: 19.5, y: -20.5}
+        - {x: 19.5, y: 20.5}
+    - name: donkey-kong-3_27
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1509
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 6}
+        - {x: -20, y: -17}
+        - {x: -18, y: -20}
+        - {x: 18, y: -20}
+        - {x: 20, y: -17}
+        - {x: 20, y: 20}
+        - {x: -4, y: 20}
+        - {x: -17, y: 15}
+    - name: donkey-kong-3_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1509
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -10.5}
+        - {x: 20.5, y: 19.5}
+        - {x: -6.5, y: 19.5}
+        - {x: -20.5, y: 9.5}
+        - {x: -20.5, y: -15.5}
+        - {x: -17.5, y: -19.5}
+        - {x: -1.5, y: -19.5}
+        - {x: 6.5, y: -12.5}
+        - {x: 6.5, y: -13.5}
+        - {x: 19.5, y: -17.5}
+    - name: donkey-kong-3_29
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1509
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 19}
+        - {x: -16, y: 14}
+        - {x: -20, y: 5}
+        - {x: -20, y: -14}
+        - {x: -15, y: -19}
+        - {x: 20, y: -19}
+        - {x: 20, y: 19}
+    - name: donkey-kong-3_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1466
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19.5}
+        - {x: -19, y: -19.5}
+        - {x: 19, y: -19.5}
+        - {x: 19, y: 11.5}
+        - {x: 6, y: 19.5}
+    - name: donkey-kong-3_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1466
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 19}
+        - {x: -19, y: -10}
+        - {x: -17, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 13}
+        - {x: 13, y: 19}
+    - name: donkey-kong-3_32
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1466
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 18}
+        - {x: -19.5, y: 18}
+        - {x: -19.5, y: -18}
+        - {x: -7.5, y: -18}
+        - {x: -3.5, y: -15}
+        - {x: -3.5, y: -11}
+        - {x: -3.5, y: -17}
+        - {x: -1.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 3}
+        - {x: 7.5, y: 17}
+    - name: donkey-kong-3_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1466
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 18}
+        - {x: -19.5, y: 3}
+        - {x: -19.5, y: -14}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 19.5, y: -10}
+        - {x: 19.5, y: 18}
+    - name: donkey-kong-3_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1466
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 19}
+        - {x: -19, y: 14}
+        - {x: -19, y: -19}
+        - {x: 19, y: -19}
+        - {x: 19, y: 19}
+    - name: donkey-kong-3_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1466
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 19.5}
+        - {x: -8, y: 17.5}
+        - {x: -19, y: 4.5}
+        - {x: -19, y: -18.5}
+        - {x: -17, y: -19.5}
+        - {x: 11, y: -19.5}
+        - {x: 19, y: -3.5}
+        - {x: 19, y: 18.5}
+        - {x: 18, y: 19.5}
+    - name: donkey-kong-3_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1404
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 19.5}
+        - {x: -33, y: 2.5}
+        - {x: -33, y: -19.5}
+        - {x: 29, y: -19.5}
+        - {x: 33, y: -15.5}
+        - {x: 33, y: 8.5}
+        - {x: 6, y: 19.5}
+    - name: donkey-kong-3_37
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1404
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21.5}
+        - {x: -20, y: 21.5}
+        - {x: -32, y: 6.5}
+        - {x: -32, y: -16.5}
+        - {x: -17, y: -21.5}
+        - {x: 31, y: -21.5}
+        - {x: 32, y: -19.5}
+        - {x: 32, y: 1.5}
+        - {x: 9, y: 18.5}
+    - name: donkey-kong-3_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1404
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21.5}
+        - {x: -20.5, y: 21.5}
+        - {x: -30.5, y: 19.5}
+        - {x: -30.5, y: -8.5}
+        - {x: -24.5, y: -21.5}
+        - {x: 28.5, y: -21.5}
+        - {x: 30.5, y: -18.5}
+        - {x: 30.5, y: -7.5}
+        - {x: 7.5, y: 19.5}
+    - name: donkey-kong-3_39
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1404
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 23.5}
+        - {x: -18, y: 23.5}
+        - {x: -26, y: 11.5}
+        - {x: -26, y: -2.5}
+        - {x: -25, y: -6.5}
+        - {x: -15, y: -18.5}
+        - {x: 8, y: -23.5}
+        - {x: 11, y: -20.5}
+        - {x: 11, y: -17.5}
+        - {x: 11, y: -23.5}
+        - {x: 26, y: -23.5}
+        - {x: 26, y: -7.5}
+        - {x: 19, y: 13.5}
+    - name: donkey-kong-3_40
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1404
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 24}
+        - {x: -20, y: 17}
+        - {x: -20, y: -13}
+        - {x: -8, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: 5}
+        - {x: 18, y: 15}
+        - {x: 6, y: 22}
+        - {x: -1, y: 24}
+    - name: donkey-kong-3_41
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1404
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: -7, y: 24}
+        - {x: -16, y: 14}
+        - {x: -20, y: 3}
+        - {x: -20, y: -24}
+        - {x: -3, y: -24}
+        - {x: 14, y: -17}
+        - {x: 20, y: -6}
+        - {x: 20, y: 20}
+    - name: donkey-kong-3_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1404
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: -20.5}
+        - {x: -9, y: -23.5}
+        - {x: -6, y: -23.5}
+        - {x: 4, y: -20.5}
+        - {x: 7, y: -18.5}
+        - {x: 3, y: -10.5}
+        - {x: 6, y: -12.5}
+        - {x: 15, y: -15.5}
+        - {x: 26, y: -0.5}
+        - {x: 26, y: 10.5}
+        - {x: 17, y: 23.5}
+        - {x: -1, y: 23.5}
+        - {x: -8, y: 22.5}
+        - {x: -18, y: 13.5}
+        - {x: -26, y: -10.5}
+        - {x: -26, y: -23.5}
+        - {x: -11, y: -23.5}
+        - {x: -11, y: -19.5}
+        - {x: -13, y: -17.5}
+        - {x: -11, y: -17.5}
+    - name: donkey-kong-3_43
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1404
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: -21.5}
+        - {x: 21.5, y: -16.5}
+        - {x: 30.5, y: -4.5}
+        - {x: 30.5, y: 15.5}
+        - {x: 25.5, y: 21.5}
+        - {x: -8.5, y: 21.5}
+        - {x: -30.5, y: -7.5}
+        - {x: -30.5, y: -20.5}
+        - {x: -28.5, y: -21.5}
+        - {x: -17.5, y: -21.5}
+        - {x: -17.5, y: -18.5}
+        - {x: -16.5, y: -20.5}
+        - {x: -15.5, y: -21.5}
+    - name: donkey-kong-3_44
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1404
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 21.5}
+        - {x: -7, y: 21.5}
+        - {x: -32, y: 9.5}
+        - {x: -32, y: -19.5}
+        - {x: -26, y: -21.5}
+        - {x: 22, y: -21.5}
+        - {x: 32, y: -6.5}
+        - {x: 32, y: 20.5}
+    - name: donkey-kong-3_45
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1404
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 19.5}
+        - {x: -33, y: 4.5}
+        - {x: -33, y: -18.5}
+        - {x: -32, y: -19.5}
+        - {x: 14, y: -19.5}
+        - {x: 30, y: -13.5}
+        - {x: 33, y: -12.5}
+        - {x: 33, y: 5.5}
+        - {x: 28, y: 19.5}
+    - name: donkey-kong-3_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1350
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 18.5}
+        - {x: -33.5, y: 2.5}
+        - {x: -33.5, y: -13.5}
+        - {x: -30.5, y: -12.5}
+        - {x: -28.5, y: -10.5}
+        - {x: -14.5, y: -8.5}
+        - {x: -5.5, y: -18.5}
+        - {x: 29.5, y: -18.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 33.5, y: 16.5}
+        - {x: 27.5, y: 18.5}
+    - name: donkey-kong-3_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1350
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 19}
+        - {x: -36, y: 6}
+        - {x: -36, y: -2}
+        - {x: -35, y: -3}
+        - {x: -10, y: -10}
+        - {x: -6, y: -5}
+        - {x: -4, y: -2}
+        - {x: -4, y: 0}
+        - {x: -3, y: 0}
+        - {x: -5, y: -4}
+        - {x: -5, y: -12}
+        - {x: -4, y: -19}
+        - {x: 21, y: -19}
+        - {x: 36, y: -14}
+        - {x: 36, y: 12}
+        - {x: 21, y: 19}
+    - name: donkey-kong-3_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1350
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 19.5}
+        - {x: -23, y: 19.5}
+        - {x: -35, y: 10.5}
+        - {x: -35, y: -3.5}
+        - {x: -5, y: -19.5}
+        - {x: 10, y: -19.5}
+        - {x: 31, y: -15.5}
+        - {x: 35, y: -7.5}
+    - name: donkey-kong-3_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1350
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 20}
+        - {x: -35, y: 10}
+        - {x: -35, y: -10}
+        - {x: -18, y: -20}
+        - {x: 31, y: -20}
+        - {x: 35, y: -17}
+        - {x: 35, y: 16}
+        - {x: 29, y: 20}
+    - name: donkey-kong-3_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1350
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 20}
+        - {x: -35, y: 13}
+        - {x: -35, y: -17}
+        - {x: -34, y: -20}
+        - {x: 26, y: -20}
+        - {x: 35, y: -6}
+        - {x: 35, y: 10}
+        - {x: 26, y: 20}
+    - name: donkey-kong-3_51
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1350
+        width: 70
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 9.5}
+        - {x: 21, y: 19.5}
+        - {x: -35, y: 19.5}
+        - {x: -35, y: -2.5}
+        - {x: -33, y: -7.5}
+        - {x: -29, y: -7.5}
+        - {x: -11, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 10, y: -18.5}
+        - {x: 16, y: -7.5}
+        - {x: 35, y: -1.5}
+        - {x: 35, y: 7.5}
+    - name: donkey-kong-3_52
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1350
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 19}
+        - {x: -36, y: -7}
+        - {x: -13, y: -19}
+        - {x: 12, y: -19}
+        - {x: 36, y: -2}
+        - {x: 36, y: 7}
+        - {x: 24, y: 19}
+    - name: donkey-kong-3_53
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1350
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -18.5}
+        - {x: 22.5, y: -18.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 33.5, y: 18.5}
+        - {x: -33.5, y: 18.5}
+        - {x: -33.5, y: -13.5}
+    - name: donkey-kong-3_54
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1301
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 20}
+        - {x: -18, y: 20}
+        - {x: -18, y: -4}
+        - {x: -6, y: -20}
+        - {x: 15, y: -20}
+        - {x: 18, y: -14}
+        - {x: 18, y: 2}
+        - {x: 16, y: 10}
+    - name: donkey-kong-3_55
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1301
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 18.5}
+        - {x: -21, y: -5.5}
+        - {x: -9, y: -18.5}
+        - {x: 19, y: -18.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 7.5}
+        - {x: 11, y: 18.5}
+    - name: donkey-kong-3_56
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1301
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17}
+        - {x: -24, y: 17}
+        - {x: -24, y: -6}
+        - {x: -15, y: -17}
+        - {x: 14, y: -17}
+        - {x: 24, y: -14}
+        - {x: 24, y: 5}
+    - name: donkey-kong-3_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1301
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -4}
+        - {x: 26, y: -1}
+        - {x: 20, y: 4}
+        - {x: 18, y: 4}
+        - {x: 26, y: 3}
+        - {x: 26, y: 11}
+        - {x: 15, y: 17}
+        - {x: -26, y: 17}
+        - {x: -26, y: -7}
+        - {x: -19, y: -17}
+        - {x: -4, y: -17}
+        - {x: -6, y: -14}
+        - {x: 12, y: -17}
+        - {x: 21, y: -17}
+    - name: donkey-kong-3_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1301
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 15.5}
+        - {x: 16.5, y: 17.5}
+        - {x: -27.5, y: 17.5}
+        - {x: -27.5, y: -7.5}
+        - {x: -24.5, y: -14.5}
+        - {x: -21.5, y: -17.5}
+        - {x: 21.5, y: -17.5}
+        - {x: 27.5, y: -11.5}
+        - {x: 27.5, y: 10.5}
+    - name: donkey-kong-3_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1301
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 17.5}
+        - {x: -27.5, y: 10.5}
+        - {x: -27.5, y: 0.5}
+        - {x: -24.5, y: 1.5}
+        - {x: -22.5, y: -11.5}
+        - {x: -13.5, y: -17.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 27.5, y: 17.5}
+    - name: donkey-kong-3_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1301
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -26, y: 12}
+        - {x: -26, y: -4}
+        - {x: -24, y: -14}
+        - {x: -11, y: -17}
+        - {x: 26, y: -17}
+        - {x: 26, y: 17}
+    - name: donkey-kong-3_61
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1301
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17}
+        - {x: -20, y: 9}
+        - {x: -24, y: 4}
+        - {x: -24, y: -17}
+        - {x: 14, y: -17}
+        - {x: 24, y: -10}
+        - {x: 24, y: 17}
+    - name: donkey-kong-3_62
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1301
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18.5}
+        - {x: -21, y: 7.5}
+        - {x: -21, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 21, y: -5.5}
+        - {x: 21, y: 18.5}
+    - name: donkey-kong-3_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1301
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20}
+        - {x: -17, y: 7}
+        - {x: -18, y: 4}
+        - {x: -18, y: -20}
+        - {x: 6, y: -20}
+        - {x: 18, y: -3}
+        - {x: 18, y: 20}
+    - name: donkey-kong-3_64
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1249
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -4}
+        - {x: -6, y: -9}
+        - {x: -5, y: -9}
+        - {x: -6, y: -9}
+        - {x: -10, y: -11}
+        - {x: -9, y: -18}
+        - {x: 10, y: -18}
+        - {x: 16, y: -12}
+        - {x: 16, y: 14}
+        - {x: 11, y: 18}
+    - name: donkey-kong-3_65
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1249
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 17.5}
+        - {x: -18, y: 14.5}
+        - {x: -18, y: -0.5}
+        - {x: -12, y: -9.5}
+        - {x: -3, y: -17.5}
+        - {x: 13, y: -17.5}
+        - {x: 18, y: -14.5}
+        - {x: 18, y: 12.5}
+        - {x: 13, y: 17.5}
+    - name: donkey-kong-3_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1249
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_67
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1249
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_68
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1249
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 23}
+        - {x: -16, y: 23}
+        - {x: -16, y: -15}
+        - {x: -12, y: -21}
+        - {x: -5, y: -23}
+        - {x: 16, y: -23}
+        - {x: 16, y: 12}
+        - {x: 9, y: 19}
+    - name: donkey-kong-3_69
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1249
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 21}
+        - {x: -15, y: 21}
+        - {x: -16, y: 20}
+        - {x: -17, y: 18}
+        - {x: -17, y: -6}
+        - {x: -7, y: -19}
+        - {x: 0, y: -21}
+        - {x: 17, y: -21}
+        - {x: 17, y: 5}
+        - {x: 8, y: 19}
+    - name: donkey-kong-3_70
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1249
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 21}
+        - {x: -17, y: 14}
+        - {x: -17, y: -21}
+        - {x: 8, y: -21}
+        - {x: 17, y: -11}
+        - {x: 17, y: 21}
+    - name: donkey-kong-3_71
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1249
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 23}
+        - {x: -15, y: 17}
+        - {x: -16, y: 12}
+        - {x: -16, y: -23}
+        - {x: 16, y: -23}
+        - {x: 16, y: 23}
+    - name: donkey-kong-3_72
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1249
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_73
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1249
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_74
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1249
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 17.5}
+        - {x: -18, y: 11.5}
+        - {x: -18, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 7, y: -17.5}
+        - {x: 18, y: -2.5}
+        - {x: 18, y: 17.5}
+    - name: donkey-kong-3_75
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1249
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -9}
+        - {x: 6, y: -9}
+        - {x: 16, y: -3}
+        - {x: 16, y: 18}
+        - {x: -10, y: 18}
+        - {x: -16, y: 13}
+        - {x: -16, y: -11}
+        - {x: -15, y: -17}
+        - {x: -11, y: -18}
+        - {x: 8, y: -18}
+        - {x: 9, y: -17}
+        - {x: 9, y: -12}
+        - {x: 6, y: -9}
+    - name: donkey-kong-3_76
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1205
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 18}
+        - {x: -18.5, y: 11}
+        - {x: -18.5, y: -18}
+        - {x: 0.5, y: -18}
+        - {x: 18.5, y: -6}
+        - {x: 18.5, y: 16}
+        - {x: 13.5, y: 18}
+    - name: donkey-kong-3_77
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1205
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20}
+        - {x: -18, y: -12}
+        - {x: -15, y: -20}
+        - {x: 0, y: -20}
+        - {x: 11, y: -11}
+        - {x: 18, y: 2}
+        - {x: 18, y: 20}
+    - name: donkey-kong-3_78
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1205
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -17}
+        - {x: -15, y: -20}
+        - {x: 10, y: -20}
+        - {x: 16, y: -15}
+        - {x: 16, y: 20}
+    - name: donkey-kong-3_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1205
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_80
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1205
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1205
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -11}
+        - {x: -7, y: -20}
+        - {x: 10, y: -20}
+        - {x: 16, y: -9}
+        - {x: 16, y: 17}
+        - {x: 13, y: 20}
+    - name: donkey-kong-3_82
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1205
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -18, y: 17}
+        - {x: -18, y: -8}
+        - {x: -16, y: -14}
+        - {x: -1, y: -20}
+        - {x: 15, y: -20}
+        - {x: 18, y: -10}
+        - {x: 18, y: 10}
+        - {x: 8, y: 20}
+    - name: donkey-kong-3_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1205
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 18}
+        - {x: -18.5, y: 17}
+        - {x: -18.5, y: -11}
+        - {x: -2.5, y: -18}
+        - {x: 18.5, y: -18}
+        - {x: 18.5, y: 14}
+        - {x: 9.5, y: 18}
+    - name: donkey-kong-3_84
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1163
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -14.5}
+        - {x: -12, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 3.5}
+        - {x: 12, y: 17.5}
+        - {x: -14, y: 17.5}
+        - {x: -16, y: 10.5}
+    - name: donkey-kong-3_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1163
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -17, y: 16.5}
+        - {x: -17, y: -10.5}
+        - {x: -13, y: -17.5}
+        - {x: 15, y: -17.5}
+        - {x: 17, y: -15.5}
+        - {x: 17, y: 2.5}
+        - {x: 14, y: 12.5}
+    - name: donkey-kong-3_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1163
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_87
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1163
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1163
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 18}
+        - {x: -19, y: 10}
+        - {x: -19, y: -18}
+        - {x: 4, y: -18}
+        - {x: 19, y: -13}
+        - {x: 19, y: 8}
+        - {x: 15, y: 18}
+    - name: donkey-kong-3_89
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1163
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 18}
+        - {x: -19, y: 16}
+        - {x: -19, y: -13}
+        - {x: -12, y: -18}
+        - {x: 13, y: -18}
+        - {x: 19, y: -14}
+        - {x: 19, y: 8}
+        - {x: 8, y: 18}
+    - name: donkey-kong-3_90
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1163
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_91
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1163
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1163
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 17.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: -14.5}
+        - {x: -12, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 17, y: -13.5}
+        - {x: 17, y: 13.5}
+        - {x: 16, y: 17.5}
+    - name: donkey-kong-3_93
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1163
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 17.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -17.5}
+        - {x: 11, y: -17.5}
+        - {x: 16, y: -10.5}
+        - {x: 16, y: 17.5}
+    - name: donkey-kong-3_94
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1118
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 20}
+        - {x: -1.5, y: 20}
+        - {x: -11.5, y: 12}
+        - {x: -18.5, y: -1}
+        - {x: -18.5, y: -16}
+        - {x: -13.5, y: -20}
+        - {x: 6.5, y: -20}
+        - {x: 16.5, y: -11}
+        - {x: 18.5, y: -8}
+        - {x: 18.5, y: 5}
+    - name: donkey-kong-3_95
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1118
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20}
+        - {x: -16.5, y: 5}
+        - {x: -16.5, y: -20}
+        - {x: 10.5, y: -20}
+        - {x: 16.5, y: -13}
+        - {x: 16.5, y: 16}
+        - {x: 5.5, y: 20}
+    - name: donkey-kong-3_96
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1118
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_97
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1118
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_98
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1118
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: -14}
+        - {x: -12.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 16.5, y: 3}
+        - {x: 10.5, y: 20}
+        - {x: -3.5, y: 20}
+        - {x: -16.5, y: 11}
+    - name: donkey-kong-3_99
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1118
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 20}
+        - {x: -18.5, y: 8}
+        - {x: -18.5, y: -11}
+        - {x: -17.5, y: -15}
+        - {x: -7.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 18.5, y: -17}
+        - {x: 18.5, y: 5}
+        - {x: 6.5, y: 20}
+    - name: donkey-kong-3_100
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1067
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 16}
+        - {x: 7, y: 20}
+    - name: donkey-kong-3_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1068
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 21.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -21.5}
+        - {x: 15, y: -21.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 17.5}
+        - {x: 2, y: 21.5}
+    - name: donkey-kong-3_102
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1068
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 22}
+        - {x: -14, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -22}
+        - {x: 14, y: -22}
+        - {x: 16, y: -12}
+        - {x: 16, y: 17}
+        - {x: 5, y: 22}
+    - name: donkey-kong-3_103
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1067
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_104
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1067
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_105
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1067
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_106
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1067
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_107
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1068
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 22}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -15, y: -22}
+        - {x: 16, y: -22}
+        - {x: 16, y: 19}
+        - {x: 12, y: 22}
+    - name: donkey-kong-3_108
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1068
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 21.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 14.5}
+        - {x: 11, y: 21.5}
+    - name: donkey-kong-3_109
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1067
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 19}
+        - {x: 14, y: 20}
+    - name: donkey-kong-3_110
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1026
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 18.5}
+        - {x: -16, y: 12.5}
+        - {x: -16, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 16, y: -10.5}
+        - {x: 16, y: 17.5}
+        - {x: 11, y: 18.5}
+    - name: donkey-kong-3_111
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: donkey-kong-3_112
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: donkey-kong-3_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 18}
+        - {x: -16.5, y: 17}
+        - {x: -16.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 16.5, y: -14}
+        - {x: 16.5, y: 17}
+        - {x: 15.5, y: 18}
+    - name: donkey-kong-3_114
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18}
+        - {x: -16.5, y: 12}
+        - {x: -16.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 16.5, y: -16}
+        - {x: 16.5, y: 18}
+    - name: donkey-kong-3_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18}
+        - {x: -16.5, y: 15}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: donkey-kong-3_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 18}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: donkey-kong-3_117
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -15.5, y: 16}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 15}
+        - {x: 11.5, y: 18}
+    - name: donkey-kong-3_118
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 18}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 15}
+        - {x: 13.5, y: 18}
+    - name: donkey-kong-3_119
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18}
+        - {x: -16.5, y: -17}
+        - {x: -15.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 14}
+        - {x: 12.5, y: 18}
+    - name: donkey-kong-3_120
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 18}
+        - {x: -15.5, y: 17}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 14}
+        - {x: 11.5, y: 18}
+    - name: donkey-kong-3_121
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 18}
+        - {x: -15.5, y: 17}
+        - {x: -16.5, y: 16}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 14}
+        - {x: 10.5, y: 18}
+    - name: donkey-kong-3_122
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1026
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18}
+        - {x: -16.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 14}
+        - {x: 10.5, y: 18}
+    - name: donkey-kong-3_123
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1026
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -9.5}
+        - {x: -14, y: -18.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 13.5}
+        - {x: 13, y: 18.5}
+    - name: donkey-kong-3_124
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 990
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_125
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 990
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 990
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_127
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 990
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_128
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 990
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 990
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_130
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 990
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_131
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 990
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_132
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 990
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_133
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 990
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_134
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 956
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 956
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 956
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_137
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 956
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_138
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 956
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_139
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 956
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_140
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 956
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_141
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 956
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_142
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 956
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_143
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 956
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_144
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 921
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_145
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 921
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_146
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_147
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_148
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_149
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_150
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_151
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 921
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_152
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 921
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_153
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 921
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 886
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_155
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 886
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_156
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 886
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 886
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_158
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 886
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_159
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 886
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_160
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 886
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_161
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 886
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_162
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 845
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_163
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_164
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 845
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_165
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 845
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_166
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 845
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_167
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 845
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_168
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 845
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_169
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 845
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_170
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 845
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_171
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 845
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_172
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 775
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_173
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 775
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_174
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 775
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_175
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 775
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_176
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 775
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_177
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 775
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_178
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 775
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_179
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 775
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_180
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 775
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_181
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 775
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_182
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 699
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_183
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 699
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_184
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 699
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 36}
+        - {x: 0, y: 34}
+        - {x: 1, y: 30}
+        - {x: -1, y: 36}
+        - {x: -13, y: 36}
+        - {x: -16, y: 29}
+        - {x: -16, y: -22}
+        - {x: -15, y: -36}
+        - {x: 15, y: -36}
+        - {x: 16, y: -32}
+        - {x: 16, y: 36}
+    - name: donkey-kong-3_185
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 699
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 35.5}
+        - {x: -16, y: 32.5}
+        - {x: -16, y: -23.5}
+        - {x: -14, y: -35.5}
+        - {x: 13, y: -35.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: 32.5}
+        - {x: 15, y: 35.5}
+    - name: donkey-kong-3_186
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 699
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35.5}
+        - {x: -16, y: -35.5}
+        - {x: 16, y: -35.5}
+        - {x: 16, y: 35.5}
+    - name: donkey-kong-3_187
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 699
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 35.5}
+        - {x: -16, y: 34.5}
+        - {x: -16, y: -35.5}
+        - {x: 16, y: -35.5}
+        - {x: 16, y: 35.5}
+    - name: donkey-kong-3_188
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 699
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 35.5}
+        - {x: -16, y: -35.5}
+        - {x: 14, y: -35.5}
+        - {x: 16, y: -22.5}
+        - {x: 16, y: 35.5}
+    - name: donkey-kong-3_189
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 699
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 36}
+        - {x: -16, y: -28}
+        - {x: -15, y: -36}
+        - {x: 16, y: -36}
+        - {x: 16, y: 36}
+    - name: donkey-kong-3_190
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 699
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_191
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 699
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_192
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 629
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 18.5}
+        - {x: -16, y: 14.5}
+        - {x: -16, y: -17.5}
+        - {x: -13, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 16.5}
+        - {x: 14, y: 18.5}
+    - name: donkey-kong-3_193
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 629
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20.5}
+        - {x: -16, y: 18.5}
+        - {x: -16, y: -14.5}
+        - {x: -12, y: -20.5}
+        - {x: 16, y: -20.5}
+        - {x: 16, y: 20.5}
+    - name: donkey-kong-3_194
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 629
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 24}
+        - {x: -16, y: 22}
+        - {x: -16, y: -16}
+        - {x: -14, y: -24}
+        - {x: 12, y: -24}
+        - {x: 16, y: -15}
+        - {x: 16, y: 24}
+    - name: donkey-kong-3_195
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 629
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -25.5}
+        - {x: -13, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 16, y: 27.5}
+    - name: donkey-kong-3_196
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 629
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 31}
+        - {x: -14, y: 31}
+        - {x: -16, y: 29}
+        - {x: -16, y: -28}
+        - {x: -15, y: -31}
+        - {x: 11, y: -31}
+        - {x: 15, y: -24}
+        - {x: 16, y: -18}
+        - {x: 16, y: 27}
+    - name: donkey-kong-3_197
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 629
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33.5}
+        - {x: -16, y: -33.5}
+        - {x: 14, y: -33.5}
+        - {x: 16, y: -25.5}
+        - {x: 16, y: 31.5}
+        - {x: 15, y: 33.5}
+    - name: donkey-kong-3_198
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 629
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33.5}
+        - {x: -16, y: -33.5}
+        - {x: 13, y: -33.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 33.5}
+    - name: donkey-kong-3_199
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 629
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 31}
+        - {x: -16, y: 27}
+        - {x: -16, y: -19}
+        - {x: -13, y: -31}
+        - {x: 12, y: -31}
+        - {x: 16, y: -18}
+        - {x: 16, y: 31}
+    - name: donkey-kong-3_200
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 629
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -23.5}
+        - {x: -10, y: -27.5}
+        - {x: 1, y: -27.5}
+        - {x: 9, y: -24.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 27.5}
+    - name: donkey-kong-3_201
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 629
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 24}
+        - {x: -16, y: 22}
+        - {x: -16, y: -17}
+        - {x: -13, y: -24}
+        - {x: 9, y: -24}
+        - {x: 16, y: -16}
+        - {x: 16, y: 24}
+    - name: donkey-kong-3_202
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 629
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -20.5}
+        - {x: 14, y: -20.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 20.5}
+    - name: donkey-kong-3_203
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 629
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18.5}
+        - {x: -16, y: -18.5}
+        - {x: 13, y: -18.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 18.5}
+    - name: donkey-kong-3_204
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 590
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 590
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: donkey-kong-3_206
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 590
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -17}
+        - {x: 11, y: -17}
+        - {x: 16, y: -16}
+        - {x: 16, y: 17}
+    - name: donkey-kong-3_207
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 590
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -12.5}
+        - {x: -11, y: -17.5}
+        - {x: 11, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 17.5}
+    - name: donkey-kong-3_208
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 590
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -18}
+        - {x: 16, y: -18}
+        - {x: 16, y: 18}
+    - name: donkey-kong-3_209
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 590
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 18}
+        - {x: -16, y: -18}
+        - {x: 16, y: -18}
+        - {x: 16, y: 18}
+    - name: donkey-kong-3_210
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 590
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -16, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 17.5}
+    - name: donkey-kong-3_211
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 590
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17}
+        - {x: -16, y: -10}
+        - {x: -12, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 17}
+    - name: donkey-kong-3_212
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 590
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -10}
+    - name: donkey-kong-3_213
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 590
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_214
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 523
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 25}
+        - {x: 12.5, y: 22}
+        - {x: 3.5, y: 25}
+        - {x: -20.5, y: 25}
+        - {x: -23.5, y: 17}
+        - {x: -23.5, y: -8}
+        - {x: -21.5, y: -12}
+        - {x: -7.5, y: -25}
+        - {x: 22.5, y: -25}
+        - {x: 23.5, y: -22}
+        - {x: 23.5, y: 25}
+    - name: donkey-kong-3_215
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 523
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 27}
+        - {x: 21.5, y: 30}
+        - {x: -25.5, y: 30}
+        - {x: -25.5, y: -22}
+        - {x: -8.5, y: -30}
+        - {x: 9.5, y: -30}
+        - {x: 11.5, y: -22}
+        - {x: 10.5, y: -18}
+        - {x: 25.5, y: 1}
+    - name: donkey-kong-3_216
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 523
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -25, y: -18}
+        - {x: -21, y: -27}
+        - {x: -12, y: -32}
+        - {x: 16, y: -32}
+        - {x: 25, y: -13}
+        - {x: 25, y: 32}
+    - name: donkey-kong-3_217
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 523
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 30.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -20.5, y: -30.5}
+        - {x: 13.5, y: -30.5}
+        - {x: 21.5, y: 3.5}
+        - {x: 21.5, y: 30.5}
+    - name: donkey-kong-3_218
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 523
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 30.5}
+        - {x: -21.5, y: -17.5}
+        - {x: -19.5, y: -28.5}
+        - {x: -14.5, y: -30.5}
+        - {x: 9.5, y: -30.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 21.5, y: 30.5}
+    - name: donkey-kong-3_219
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 523
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 32}
+        - {x: -25, y: 10}
+        - {x: -9, y: -32}
+        - {x: 7, y: -32}
+        - {x: 16, y: -28}
+        - {x: 25, y: -9}
+        - {x: 25, y: 32}
+    - name: donkey-kong-3_220
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 523
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 30}
+        - {x: -25.5, y: -24}
+        - {x: -23.5, y: -30}
+        - {x: 25.5, y: -30}
+        - {x: 25.5, y: 30}
+    - name: donkey-kong-3_221
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 523
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 25}
+        - {x: 4.5, y: 24}
+        - {x: -0.5, y: 25}
+        - {x: -1.5, y: 25}
+        - {x: -7.5, y: 17}
+        - {x: -11.5, y: 23}
+        - {x: -17.5, y: 25}
+        - {x: -19.5, y: 25}
+        - {x: -23.5, y: 22}
+        - {x: -23.5, y: -3}
+        - {x: -10.5, y: -25}
+        - {x: 6.5, y: -25}
+        - {x: 17.5, y: -21}
+        - {x: 23.5, y: -9}
+        - {x: 23.5, y: 15}
+        - {x: 18.5, y: 25}
+    - name: donkey-kong-3_222
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 470
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 20}
+        - {x: -16.5, y: 20}
+        - {x: -22.5, y: 18}
+        - {x: -22.5, y: -20}
+        - {x: 22.5, y: -20}
+        - {x: 22.5, y: 12}
+        - {x: 21.5, y: 17}
+    - name: donkey-kong-3_223
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 470
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21.5}
+        - {x: -23.5, y: 11.5}
+        - {x: -23.5, y: -18.5}
+        - {x: -19.5, y: -21.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 23.5, y: -20.5}
+        - {x: 23.5, y: 13.5}
+        - {x: 8.5, y: 21.5}
+    - name: donkey-kong-3_224
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 470
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -7}
+        - {x: -14, y: -23}
+        - {x: 20, y: -23}
+        - {x: 26, y: -22}
+        - {x: 26, y: 15}
+        - {x: 24, y: 22}
+        - {x: 15, y: 23}
+        - {x: -12, y: 23}
+        - {x: -26, y: 17}
+    - name: donkey-kong-3_225
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 470
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 24}
+        - {x: -26, y: 20}
+        - {x: -30, y: 15}
+        - {x: -30, y: 5}
+        - {x: -24, y: -5}
+        - {x: -16, y: -4}
+        - {x: -8, y: -23}
+        - {x: -7, y: -24}
+        - {x: 30, y: -24}
+        - {x: 30, y: 19}
+        - {x: 12, y: 24}
+    - name: donkey-kong-3_226
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 470
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -33.5, y: 24.5}
+        - {x: -33.5, y: 2.5}
+        - {x: -32.5, y: -2.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -10.5, y: -25.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 33.5, y: 8.5}
+        - {x: 31.5, y: 16.5}
+    - name: donkey-kong-3_227
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 470
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 25.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -33.5, y: 2.5}
+        - {x: -33.5, y: -7.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -14.5, y: -0.5}
+        - {x: -15.5, y: -6.5}
+        - {x: -19.5, y: -10.5}
+        - {x: -15.5, y: -25.5}
+        - {x: 10.5, y: -25.5}
+        - {x: 33.5, y: 4.5}
+        - {x: 33.5, y: 25.5}
+    - name: donkey-kong-3_228
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 470
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 24}
+        - {x: -18, y: 24}
+        - {x: -30, y: 17}
+        - {x: -30, y: -24}
+        - {x: 17, y: -24}
+        - {x: 30, y: 3}
+        - {x: 30, y: 14}
+        - {x: 25, y: 19}
+    - name: donkey-kong-3_229
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 470
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -23}
+        - {x: 14, y: -23}
+        - {x: 26, y: -17}
+        - {x: 26, y: 11}
+        - {x: 25, y: 14}
+        - {x: 17, y: 23}
+        - {x: -13, y: 23}
+        - {x: -26, y: 16}
+    - name: donkey-kong-3_230
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 470
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.5, y: 10.5}
+        - {x: 7.5, y: 21.5}
+        - {x: -8.5, y: 21.5}
+        - {x: -23.5, y: 10.5}
+        - {x: -23.5, y: -16.5}
+        - {x: -14.5, y: -21.5}
+        - {x: 9.5, y: -21.5}
+        - {x: 10.5, y: -13.5}
+        - {x: 23.5, y: -8.5}
+        - {x: 23.5, y: 7.5}
+    - name: donkey-kong-3_231
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 470
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 20}
+        - {x: -22.5, y: -20}
+        - {x: 14.5, y: -20}
+        - {x: 22.5, y: -17}
+        - {x: 22.5, y: 20}
+    - name: donkey-kong-3_232
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 417
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -15.5}
+        - {x: -26.5, y: -18.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: -4.5}
+        - {x: 25.5, y: 6.5}
+        - {x: 10.5, y: 23.5}
+        - {x: -9.5, y: 23.5}
+        - {x: -28.5, y: 13.5}
+    - name: donkey-kong-3_233
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 417
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -22}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: 13}
+        - {x: 24.5, y: 22}
+        - {x: -26.5, y: 22}
+        - {x: -26.5, y: -14}
+        - {x: -19.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: -17}
+        - {x: 11.5, y: -11}
+        - {x: 15.5, y: -19}
+    - name: donkey-kong-3_234
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 23}
+        - {x: -25.5, y: 15}
+        - {x: -25.5, y: -8}
+        - {x: -20.5, y: -10}
+        - {x: -15.5, y: -10}
+        - {x: -12.5, y: -7}
+        - {x: -12.5, y: -5}
+        - {x: -12.5, y: -8}
+        - {x: -15.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: 10}
+        - {x: 15.5, y: 23}
+    - name: donkey-kong-3_235
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 417
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -9.5}
+        - {x: 27.5, y: 10.5}
+        - {x: 15.5, y: 23.5}
+        - {x: -8.5, y: 23.5}
+        - {x: -27.5, y: 11.5}
+        - {x: -27.5, y: -9.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: -2.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -14.5, y: -23.5}
+        - {x: -1.5, y: -23.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+    - name: donkey-kong-3_236
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 417
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 25}
+        - {x: -4.5, y: 25}
+        - {x: -14.5, y: 21}
+        - {x: -24.5, y: 16}
+        - {x: -30.5, y: 1}
+        - {x: -30.5, y: -12}
+        - {x: -22.5, y: -14}
+        - {x: -13.5, y: -7}
+        - {x: -15.5, y: -21}
+        - {x: -14.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 30.5, y: -4}
+        - {x: 30.5, y: 16}
+    - name: donkey-kong-3_237
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 417
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 25}
+        - {x: -18.5, y: 25}
+        - {x: -30.5, y: 16}
+        - {x: -30.5, y: -14}
+        - {x: -23.5, y: -25}
+        - {x: 18.5, y: -25}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 10}
+        - {x: 29.5, y: 12}
+    - name: donkey-kong-3_238
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 417
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 9.5}
+        - {x: 23.5, y: 21.5}
+        - {x: 19.5, y: 23.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -27.5, y: 17.5}
+        - {x: -27.5, y: -8.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -11.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 0.5, y: -21.5}
+        - {x: -0.5, y: -12.5}
+        - {x: 0.5, y: -21.5}
+        - {x: 0.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 27.5, y: -10.5}
+    - name: donkey-kong-3_239
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 417
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -7}
+        - {x: 15.5, y: -10}
+        - {x: 20.5, y: -10}
+        - {x: 25.5, y: -7}
+        - {x: 25.5, y: 9}
+        - {x: 12.5, y: 22}
+        - {x: 5.5, y: 23}
+        - {x: -12.5, y: 23}
+        - {x: -25.5, y: 8}
+        - {x: -25.5, y: -18}
+        - {x: -13.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 12.5, y: -8}
+        - {x: 10.5, y: -3}
+    - name: donkey-kong-3_240
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 417
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 22}
+        - {x: -11.5, y: 22}
+        - {x: -26.5, y: 4}
+        - {x: -26.5, y: -22}
+        - {x: -22.5, y: -22}
+        - {x: -16.5, y: -18}
+        - {x: -13.5, y: -14}
+        - {x: -13.5, y: -9}
+        - {x: -13.5, y: -17}
+        - {x: -15.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 26.5, y: -15}
+        - {x: 26.5, y: 9}
+        - {x: 24.5, y: 14}
+    - name: donkey-kong-3_241
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 417
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -11.5}
+        - {x: 28.5, y: 12.5}
+        - {x: 13.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -28.5, y: 0.5}
+        - {x: -28.5, y: -20.5}
+        - {x: -25.5, y: -23.5}
+        - {x: 1.5, y: -23.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 4.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+    - name: donkey-kong-3_242
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 364
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.5, y: -15.5}
+        - {x: -26.5, y: -18.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: -4.5}
+        - {x: 25.5, y: 6.5}
+        - {x: 10.5, y: 23.5}
+        - {x: -9.5, y: 23.5}
+        - {x: -28.5, y: 13.5}
+    - name: donkey-kong-3_243
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 364
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25}
+        - {x: -30.5, y: 18}
+        - {x: -30.5, y: -14}
+        - {x: -22.5, y: -25}
+        - {x: 22.5, y: -25}
+        - {x: 30.5, y: -16}
+        - {x: 30.5, y: 3}
+        - {x: 7.5, y: 25}
+    - name: donkey-kong-3_244
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 364
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 25.5}
+        - {x: -32, y: -21.5}
+        - {x: -30, y: -25.5}
+        - {x: -4, y: -25.5}
+        - {x: -4, y: -23.5}
+        - {x: -4, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 32, y: -9.5}
+        - {x: 32, y: 4.5}
+        - {x: 4, y: 25.5}
+    - name: donkey-kong-3_245
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 364
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 25.5}
+        - {x: -33.5, y: -16.5}
+        - {x: -15.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 33.5, y: -7.5}
+        - {x: 33.5, y: 5.5}
+        - {x: 6.5, y: 25.5}
+    - name: donkey-kong-3_246
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 364
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 25.5}
+        - {x: -32, y: -21.5}
+        - {x: -30, y: -25.5}
+        - {x: -4, y: -25.5}
+        - {x: -4, y: -23.5}
+        - {x: -4, y: -25.5}
+        - {x: 15, y: -25.5}
+        - {x: 32, y: -9.5}
+        - {x: 32, y: 4.5}
+        - {x: 4, y: 25.5}
+    - name: donkey-kong-3_247
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 364
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 7.5}
+        - {x: -32, y: -15.5}
+        - {x: -29, y: -21.5}
+        - {x: -20, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 32, y: -20.5}
+        - {x: 32, y: 25.5}
+        - {x: -26, y: 25.5}
+    - name: donkey-kong-3_248
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 364
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 25.5}
+        - {x: -27.5, y: 25.5}
+        - {x: -33.5, y: 14.5}
+        - {x: -33.5, y: -8.5}
+        - {x: -25.5, y: -8.5}
+        - {x: -20.5, y: -4.5}
+        - {x: -16.5, y: -0.5}
+        - {x: -9.5, y: -25.5}
+        - {x: 13.5, y: -25.5}
+        - {x: 13.5, y: -20.5}
+        - {x: 33.5, y: -2.5}
+    - name: donkey-kong-3_249
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 364
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 7.5}
+        - {x: -32, y: -15.5}
+        - {x: -29, y: -21.5}
+        - {x: -20, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 32, y: -20.5}
+        - {x: 32, y: 25.5}
+        - {x: -26, y: 25.5}
+    - name: donkey-kong-3_250
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 364
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 25}
+        - {x: -30.5, y: 3}
+        - {x: -30.5, y: -19}
+        - {x: -26.5, y: -25}
+        - {x: 29.5, y: -25}
+        - {x: 30.5, y: -19}
+        - {x: 30.5, y: 21}
+        - {x: 20.5, y: 25}
+    - name: donkey-kong-3_251
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 364
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -11.5}
+        - {x: 28.5, y: 12.5}
+        - {x: 13.5, y: 23.5}
+        - {x: -5.5, y: 23.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -23.5, y: 5.5}
+        - {x: -28.5, y: 0.5}
+        - {x: -28.5, y: -20.5}
+        - {x: -25.5, y: -23.5}
+        - {x: 1.5, y: -23.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 4.5, y: -23.5}
+        - {x: 23.5, y: -23.5}
+    - name: donkey-kong-3_252
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 311
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 22}
+        - {x: -11.5, y: 22}
+        - {x: -26.5, y: 4}
+        - {x: -26.5, y: -22}
+        - {x: -22.5, y: -22}
+        - {x: -16.5, y: -18}
+        - {x: -13.5, y: -14}
+        - {x: -13.5, y: -9}
+        - {x: -13.5, y: -17}
+        - {x: -15.5, y: -22}
+        - {x: 21.5, y: -22}
+        - {x: 26.5, y: -15}
+        - {x: 26.5, y: 9}
+        - {x: 24.5, y: 14}
+    - name: donkey-kong-3_253
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 311
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.5, y: -7}
+        - {x: 15.5, y: -10}
+        - {x: 20.5, y: -10}
+        - {x: 25.5, y: -7}
+        - {x: 25.5, y: 9}
+        - {x: 12.5, y: 22}
+        - {x: 5.5, y: 23}
+        - {x: -12.5, y: 23}
+        - {x: -25.5, y: 8}
+        - {x: -25.5, y: -18}
+        - {x: -13.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 12.5, y: -8}
+        - {x: 10.5, y: -3}
+    - name: donkey-kong-3_254
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 311
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 9.5}
+        - {x: 23.5, y: 21.5}
+        - {x: 19.5, y: 23.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -27.5, y: 17.5}
+        - {x: -27.5, y: -8.5}
+        - {x: -19.5, y: -8.5}
+        - {x: -11.5, y: -23.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 0.5, y: -21.5}
+        - {x: -0.5, y: -12.5}
+        - {x: 0.5, y: -21.5}
+        - {x: 0.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 14.5, y: -8.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 27.5, y: -10.5}
+    - name: donkey-kong-3_255
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 311
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 25}
+        - {x: -18.5, y: 25}
+        - {x: -30.5, y: 16}
+        - {x: -30.5, y: -14}
+        - {x: -23.5, y: -25}
+        - {x: 18.5, y: -25}
+        - {x: 30.5, y: -17}
+        - {x: 30.5, y: 10}
+        - {x: 29.5, y: 12}
+    - name: donkey-kong-3_256
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 311
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 25.5}
+        - {x: -30.5, y: 25.5}
+        - {x: -33.5, y: 24.5}
+        - {x: -33.5, y: 2.5}
+        - {x: -32.5, y: -2.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -10.5, y: -25.5}
+        - {x: 28.5, y: -25.5}
+        - {x: 33.5, y: -16.5}
+        - {x: 33.5, y: 8.5}
+        - {x: 31.5, y: 16.5}
+    - name: donkey-kong-3_257
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 311
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 25.5}
+        - {x: -18.5, y: 20.5}
+        - {x: -33.5, y: 2.5}
+        - {x: -33.5, y: -7.5}
+        - {x: -32.5, y: -10.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -14.5, y: -0.5}
+        - {x: -15.5, y: -6.5}
+        - {x: -19.5, y: -10.5}
+        - {x: -15.5, y: -25.5}
+        - {x: 10.5, y: -25.5}
+        - {x: 33.5, y: 4.5}
+        - {x: 33.5, y: 25.5}
+    - name: donkey-kong-3_258
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 311
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 25}
+        - {x: -4.5, y: 25}
+        - {x: -14.5, y: 21}
+        - {x: -24.5, y: 16}
+        - {x: -30.5, y: 1}
+        - {x: -30.5, y: -12}
+        - {x: -22.5, y: -14}
+        - {x: -13.5, y: -7}
+        - {x: -15.5, y: -21}
+        - {x: -14.5, y: -25}
+        - {x: 15.5, y: -25}
+        - {x: 30.5, y: -4}
+        - {x: 30.5, y: 16}
+    - name: donkey-kong-3_259
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 311
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: -9.5}
+        - {x: 27.5, y: 10.5}
+        - {x: 15.5, y: 23.5}
+        - {x: -8.5, y: 23.5}
+        - {x: -27.5, y: 11.5}
+        - {x: -27.5, y: -9.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: -2.5}
+        - {x: -11.5, y: -2.5}
+        - {x: -16.5, y: -13.5}
+        - {x: -14.5, y: -23.5}
+        - {x: -1.5, y: -23.5}
+        - {x: -0.5, y: -19.5}
+        - {x: -0.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+    - name: donkey-kong-3_260
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 311
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 23}
+        - {x: -25.5, y: 15}
+        - {x: -25.5, y: -8}
+        - {x: -20.5, y: -10}
+        - {x: -15.5, y: -10}
+        - {x: -12.5, y: -7}
+        - {x: -12.5, y: -5}
+        - {x: -12.5, y: -8}
+        - {x: -15.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 25.5, y: 10}
+        - {x: 15.5, y: 23}
+    - name: donkey-kong-3_261
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 311
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -22}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: 13}
+        - {x: 24.5, y: 22}
+        - {x: -26.5, y: 22}
+        - {x: -26.5, y: -14}
+        - {x: -19.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 13.5, y: -17}
+        - {x: 11.5, y: -11}
+        - {x: 15.5, y: -19}
+    - name: donkey-kong-3_262
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 259
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 24}
+        - {x: -13, y: 24}
+        - {x: -16, y: 22}
+        - {x: -16, y: -18}
+        - {x: -13, y: -24}
+        - {x: 16, y: -24}
+        - {x: 16, y: 17}
+        - {x: 12, y: 22}
+    - name: donkey-kong-3_263
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 259
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 24}
+        - {x: -14.5, y: 24}
+        - {x: -17.5, y: 15}
+        - {x: -17.5, y: -5}
+        - {x: -15.5, y: -8}
+        - {x: -7.5, y: -24}
+        - {x: 16.5, y: -24}
+        - {x: 17.5, y: -11}
+        - {x: 17.5, y: 19}
+        - {x: 16.5, y: 22}
+    - name: donkey-kong-3_264
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 259
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 24.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: -14.5}
+        - {x: -10, y: -24.5}
+        - {x: 17, y: -24.5}
+        - {x: 19, y: -12.5}
+        - {x: 19, y: 16.5}
+        - {x: 5, y: 24.5}
+    - name: donkey-kong-3_265
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 259
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 25}
+        - {x: -22, y: -25}
+        - {x: 18, y: -25}
+        - {x: 22, y: -13}
+        - {x: 22, y: 17}
+        - {x: 11, y: 25}
+    - name: donkey-kong-3_266
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 259
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -9}
+        - {x: 26.5, y: -8}
+        - {x: 27.5, y: -8}
+        - {x: 27.5, y: 5}
+        - {x: 25.5, y: 12}
+        - {x: 18.5, y: 25}
+        - {x: -27.5, y: 25}
+        - {x: -27.5, y: -12}
+        - {x: -18.5, y: -25}
+        - {x: 10.5, y: -25}
+        - {x: 13.5, y: -2}
+        - {x: 13.5, y: -5}
+        - {x: 18.5, y: -10}
+    - name: donkey-kong-3_267
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 259
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 25}
+        - {x: -27.5, y: 12}
+        - {x: -27.5, y: -10}
+        - {x: -18.5, y: -9}
+        - {x: -13.5, y: -4}
+        - {x: -10.5, y: -25}
+        - {x: 22.5, y: -25}
+        - {x: 27.5, y: -10}
+        - {x: 27.5, y: 25}
+    - name: donkey-kong-3_268
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 259
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 25}
+        - {x: -16, y: 21}
+        - {x: -22, y: 16}
+        - {x: -22, y: -18}
+        - {x: -20, y: -25}
+        - {x: 18, y: -25}
+        - {x: 22, y: -16}
+        - {x: 22, y: 15}
+        - {x: 15, y: 25}
+    - name: donkey-kong-3_269
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 259
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24.5}
+        - {x: -15, y: 21.5}
+        - {x: -19, y: 19.5}
+        - {x: -19, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 19, y: -10.5}
+        - {x: 19, y: 19.5}
+        - {x: 17, y: 24.5}
+    - name: donkey-kong-3_270
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 259
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 24}
+        - {x: -17.5, y: 23}
+        - {x: -17.5, y: -24}
+        - {x: 8.5, y: -24}
+        - {x: 17.5, y: -12}
+        - {x: 17.5, y: 12}
+        - {x: 14.5, y: 24}
+    - name: donkey-kong-3_271
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 259
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 24}
+        - {x: -8, y: 22}
+        - {x: -16, y: 19}
+        - {x: -16, y: -24}
+        - {x: 7, y: -24}
+        - {x: 16, y: -10}
+        - {x: 16, y: 11}
+        - {x: 10, y: 24}
+    - name: donkey-kong-3_272
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 205
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -25.5}
+        - {x: 24, y: 4.5}
+        - {x: 24, y: 22.5}
+        - {x: 18, y: 25.5}
+        - {x: -13, y: 25.5}
+        - {x: -22, y: 20.5}
+        - {x: -24, y: 18.5}
+        - {x: -24, y: -25.5}
+        - {x: -13, y: -25.5}
+        - {x: -13, y: -21.5}
+        - {x: -11, y: -22.5}
+        - {x: -8, y: -25.5}
+    - name: donkey-kong-3_273
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 205
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 25.5}
+        - {x: -21, y: 25.5}
+        - {x: -26, y: 23.5}
+        - {x: -26, y: -25.5}
+        - {x: 5, y: -25.5}
+        - {x: 26, y: 1.5}
+        - {x: 26, y: 18.5}
+    - name: donkey-kong-3_274
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 205
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -26}
+        - {x: 19, y: 2}
+        - {x: 20, y: 7}
+        - {x: 20, y: 24}
+        - {x: 11, y: 26}
+        - {x: -8, y: 26}
+        - {x: -20, y: 19}
+        - {x: -20, y: -26}
+        - {x: -7, y: -26}
+        - {x: -7, y: -23}
+        - {x: -6, y: -25}
+        - {x: -4, y: -26}
+    - name: donkey-kong-3_275
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 205
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_276
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 205
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_277
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 205
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_278
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 205
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_279
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 205
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 26}
+        - {x: -20, y: 1}
+        - {x: -14, y: -26}
+        - {x: 20, y: -26}
+        - {x: 20, y: 24}
+        - {x: 14, y: 26}
+    - name: donkey-kong-3_280
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 205
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 25.5}
+        - {x: -26, y: 23.5}
+        - {x: -26, y: -5.5}
+        - {x: -4, y: -25.5}
+        - {x: 26, y: -25.5}
+        - {x: 26, y: 22.5}
+        - {x: 24, y: 25.5}
+    - name: donkey-kong-3_281
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 205
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 25.5}
+        - {x: -24, y: 7.5}
+        - {x: -5, y: -25.5}
+        - {x: 24, y: -25.5}
+        - {x: 24, y: 25.5}
+    - name: donkey-kong-3_282
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 149
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 25.5}
+        - {x: -25.5, y: 18.5}
+        - {x: -25.5, y: -4.5}
+        - {x: -7.5, y: -25.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 25.5, y: 16.5}
+        - {x: 14.5, y: 25.5}
+    - name: donkey-kong-3_283
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 149
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: -26}
+        - {x: 19, y: -26}
+        - {x: 19, y: 26}
+        - {x: -19, y: 26}
+        - {x: -19, y: -22}
+    - name: donkey-kong-3_284
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 149
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 26.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -12.5}
+        - {x: -11, y: -26.5}
+        - {x: 16, y: -26.5}
+        - {x: 16, y: 20.5}
+        - {x: 7, y: 26.5}
+    - name: donkey-kong-3_285
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 149
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_286
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -26.5}
+        - {x: 15.5, y: -25.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 24.5}
+        - {x: 8.5, y: 26.5}
+        - {x: -5.5, y: 26.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -16.5, y: -26.5}
+        - {x: -2.5, y: -26.5}
+        - {x: -2.5, y: -22.5}
+        - {x: -2.5, y: -24.5}
+        - {x: 2.5, y: -26.5}
+    - name: donkey-kong-3_287
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 149
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: -26.5}
+        - {x: 7.5, y: -21.5}
+        - {x: 21.5, y: 8.5}
+        - {x: 21.5, y: 20.5}
+        - {x: 8.5, y: 26.5}
+        - {x: -17.5, y: 26.5}
+        - {x: -21.5, y: 24.5}
+        - {x: -21.5, y: -26.5}
+        - {x: -9.5, y: -26.5}
+        - {x: -9.5, y: -22.5}
+        - {x: -9.5, y: -24.5}
+        - {x: -6.5, y: -26.5}
+    - name: donkey-kong-3_288
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 149
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -26.5}
+        - {x: 21.5, y: 25.5}
+        - {x: 19.5, y: 26.5}
+        - {x: -18.5, y: 26.5}
+        - {x: -21.5, y: 25.5}
+        - {x: -21.5, y: 11.5}
+        - {x: -7.5, y: -26.5}
+        - {x: 6.5, y: -26.5}
+        - {x: 8.5, y: -23.5}
+        - {x: 8.5, y: -21.5}
+        - {x: 9.5, y: -26.5}
+    - name: donkey-kong-3_289
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 149
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -16.5, y: -9.5}
+        - {x: -13.5, y: -26.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 16.5, y: 19.5}
+        - {x: 9.5, y: 26.5}
+    - name: donkey-kong-3_290
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 149
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_291
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 149
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 26.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -26.5}
+        - {x: 10, y: -26.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 17.5}
+        - {x: 13, y: 26.5}
+    - name: donkey-kong-3_292
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 149
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 26}
+        - {x: -11, y: 23}
+        - {x: -19, y: 17}
+        - {x: -19, y: -26}
+        - {x: 15, y: -26}
+        - {x: 19, y: -16}
+        - {x: 19, y: 25}
+        - {x: 17, y: 26}
+    - name: donkey-kong-3_293
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 149
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 25.5}
+        - {x: -13.5, y: 25.5}
+        - {x: -25.5, y: 19.5}
+        - {x: -25.5, y: -25.5}
+        - {x: -0.5, y: -25.5}
+        - {x: 24.5, y: -2.5}
+        - {x: 25.5, y: 1.5}
+        - {x: 25.5, y: 19.5}
+    - name: donkey-kong-3_294
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 100
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_295
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 100
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_296
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 100
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_297
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 100
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_298
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_299
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 100
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_300
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 100
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_301
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 100
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_302
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 100
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_303
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 100
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_304
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 100
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_305
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 100
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_306
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 52
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 21.5}
+        - {x: -25, y: 21.5}
+        - {x: -30, y: 19.5}
+        - {x: -30, y: 5.5}
+        - {x: -14, y: -18.5}
+        - {x: -2, y: -21.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: -2.5}
+        - {x: 10, y: 18.5}
+      - - {x: 25, y: 13.5}
+        - {x: 25, y: 12.5}
+        - {x: 28, y: 9.5}
+        - {x: 30, y: 9.5}
+        - {x: 30, y: 16.5}
+        - {x: 28, y: 16.5}
+    - name: donkey-kong-3_307
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 22.5}
+        - {x: -21.5, y: 22.5}
+        - {x: -33.5, y: 16.5}
+        - {x: -33.5, y: 7.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 29.5, y: -22.5}
+        - {x: 33.5, y: -21.5}
+        - {x: 33.5, y: -2.5}
+        - {x: 16.5, y: 21.5}
+      - - {x: -33.5, y: -8.5}
+        - {x: -33.5, y: -19.5}
+        - {x: -30.5, y: -18.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -28.5, y: -10.5}
+        - {x: -30.5, y: -8.5}
+    - name: donkey-kong-3_308
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 52
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 18}
+        - {x: -6.5, y: 23}
+        - {x: -22.5, y: 23}
+        - {x: -24.5, y: 21}
+        - {x: -24.5, y: 1}
+        - {x: -19.5, y: -13}
+        - {x: -0.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 24.5, y: -18}
+        - {x: 24.5, y: -1}
+        - {x: 23.5, y: 2}
+    - name: donkey-kong-3_309
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 52
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 23.5}
+        - {x: -19, y: 23.5}
+        - {x: -22, y: 17.5}
+        - {x: -22, y: -6.5}
+        - {x: -13, y: -23.5}
+        - {x: 22, y: -23.5}
+        - {x: 22, y: -3.5}
+        - {x: 8, y: 19.5}
+    - name: donkey-kong-3_310
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 52
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 23}
+        - {x: -16.5, y: 22}
+        - {x: -16.5, y: -17}
+        - {x: -15.5, y: -23}
+        - {x: 16.5, y: -23}
+        - {x: 16.5, y: 14}
+        - {x: 0.5, y: 23}
+    - name: donkey-kong-3_311
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 52
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_312
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 52
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: donkey-kong-3_313
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 52
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: 23}
+        - {x: -12.5, y: 21}
+        - {x: -16.5, y: 11}
+        - {x: -16.5, y: -23}
+        - {x: 4.5, y: -23}
+        - {x: 13.5, y: -11}
+        - {x: 16.5, y: -3}
+        - {x: 16.5, y: 23}
+    - name: donkey-kong-3_314
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 52
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 23.5}
+        - {x: -22, y: 7.5}
+        - {x: -22, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 19, y: -18.5}
+        - {x: 22, y: -8.5}
+        - {x: 22, y: 23.5}
+    - name: donkey-kong-3_315
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 52
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 23}
+        - {x: -7.5, y: 21}
+        - {x: -24.5, y: 2}
+        - {x: -24.5, y: -18}
+        - {x: -20.5, y: -23}
+        - {x: 4.5, y: -23}
+        - {x: 24.5, y: 1}
+        - {x: 24.5, y: 19}
+        - {x: 21.5, y: 23}
+    - name: donkey-kong-3_316
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 52
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 18.5}
+        - {x: 29.5, y: 22.5}
+        - {x: -12.5, y: 22.5}
+        - {x: -33.5, y: 7.5}
+        - {x: -33.5, y: -20.5}
+        - {x: -28.5, y: -22.5}
+        - {x: -10.5, y: -22.5}
+        - {x: 4.5, y: -11.5}
+        - {x: 33.5, y: 8.5}
+      - - {x: 28.5, y: -8.5}
+        - {x: 28.5, y: -14.5}
+        - {x: 30.5, y: -19.5}
+        - {x: 33.5, y: -19.5}
+        - {x: 33.5, y: -8.5}
+    - name: donkey-kong-3_317
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 52
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 21.5}
+        - {x: -15, y: 17.5}
+        - {x: -26, y: 2.5}
+        - {x: -30, y: -6.5}
+        - {x: -30, y: -20.5}
+        - {x: -29, y: -21.5}
+        - {x: 1, y: -21.5}
+        - {x: 17, y: -16.5}
+        - {x: 30, y: 5.5}
+        - {x: 30, y: 13.5}
+        - {x: 21, y: 21.5}
+      - - {x: -30, y: 16.5}
+        - {x: -30, y: 9.5}
+        - {x: -28, y: 9.5}
+        - {x: -25, y: 12.5}
+        - {x: -25, y: 13.5}
+        - {x: -28, y: 16.5}
+    - name: donkey-kong-3_318
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5, y: 22.5}
+        - {x: -33.5, y: 16.5}
+        - {x: -33.5, y: 1.5}
+        - {x: -0.5, y: -22.5}
+        - {x: 29.5, y: -22.5}
+        - {x: 33.5, y: -18.5}
+        - {x: 33.5, y: 14.5}
+        - {x: 18.5, y: 22.5}
+    - name: donkey-kong-3_319
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 5
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 0}
+        - {x: -6.5, y: -22}
+        - {x: 23.5, y: -22}
+        - {x: 31.5, y: -18}
+        - {x: 31.5, y: 6}
+        - {x: 30.5, y: 9}
+        - {x: 8.5, y: 22}
+        - {x: -25.5, y: 22}
+        - {x: -31.5, y: 20}
+    - name: donkey-kong-3_320
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 22}
+        - {x: -19.5, y: 22}
+        - {x: -30.5, y: 14}
+        - {x: -30.5, y: 8}
+        - {x: -22.5, y: 4}
+        - {x: -10.5, y: -16}
+        - {x: -5.5, y: -13}
+        - {x: 0.5, y: -22}
+        - {x: 22.5, y: -22}
+        - {x: 30.5, y: -15}
+        - {x: 30.5, y: -2}
+        - {x: 27.5, y: 7}
+    - name: donkey-kong-3_321
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 22.5}
+        - {x: -20.5, y: 22.5}
+        - {x: -29.5, y: 18.5}
+        - {x: -29.5, y: 5.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 29.5, y: -19.5}
+        - {x: 29.5, y: 1.5}
+        - {x: 9.5, y: 20.5}
+    - name: donkey-kong-3_322
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 5
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 22.5}
+        - {x: -29.5, y: 0.5}
+        - {x: -29.5, y: -22.5}
+        - {x: 3.5, y: -22.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 29.5, y: 5.5}
+        - {x: 29.5, y: 18.5}
+        - {x: 20.5, y: 22.5}
+    - name: donkey-kong-3_323
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 22}
+        - {x: -26.5, y: 7}
+        - {x: -30.5, y: -3}
+        - {x: -30.5, y: -18}
+        - {x: -27.5, y: -22}
+        - {x: 11.5, y: -22}
+        - {x: 14.5, y: -21}
+        - {x: 30.5, y: 7}
+        - {x: 30.5, y: 14}
+        - {x: 22.5, y: 22}
+    - name: donkey-kong-3_324
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 5
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 5}
+        - {x: 31.5, y: 22}
+        - {x: -23.5, y: 22}
+        - {x: -27.5, y: 18}
+        - {x: -31.5, y: 5}
+        - {x: -31.5, y: -20}
+        - {x: -26.5, y: -22}
+        - {x: -5.5, y: -22}
+        - {x: -2.5, y: -15}
+        - {x: 9.5, y: -17}
+    - name: donkey-kong-3_325
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 5
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 22.5}
+        - {x: -5.5, y: 22.5}
+        - {x: -18.5, y: 17.5}
+        - {x: -32.5, y: 11.5}
+        - {x: -33.5, y: 7.5}
+        - {x: -33.5, y: -22.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 33.5, y: 5.5}
+        - {x: 33.5, y: 21.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

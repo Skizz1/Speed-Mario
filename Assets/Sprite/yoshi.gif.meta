@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: c9eec6a55406164418ade7ee32ffb492
+timeCreated: 1465219089
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: yoshi_0
+    21300002: yoshi_1
+    21300004: yoshi_2
+    21300006: yoshi_3
+    21300008: yoshi_4
+    21300010: yoshi_5
+    21300012: yoshi_6
+    21300014: yoshi_7
+    21300016: yoshi_8
+    21300018: yoshi_9
+    21300020: yoshi_10
+    21300022: yoshi_11
+    21300024: yoshi_12
+    21300026: yoshi_13
+    21300028: yoshi_14
+    21300030: yoshi_15
+    21300032: yoshi_16
+    21300034: yoshi_17
+    21300036: yoshi_18
+    21300038: yoshi_19
+    21300040: yoshi_20
+    21300042: yoshi_21
+    21300044: yoshi_22
+    21300046: yoshi_23
+    21300048: yoshi_24
+    21300050: yoshi_25
+    21300052: yoshi_26
+    21300054: yoshi_27
+    21300056: yoshi_28
+    21300058: yoshi_29
+    21300060: yoshi_30
+    21300062: yoshi_31
+    21300064: yoshi_32
+    21300066: yoshi_33
+    21300068: yoshi_34
+    21300070: yoshi_35
+    21300072: yoshi_36
+    21300074: yoshi_37
+    21300076: yoshi_38
+    21300078: yoshi_39
+    21300080: yoshi_40
+    21300082: yoshi_41
+    21300084: yoshi_42
+    21300086: yoshi_43
+    21300088: yoshi_44
+    21300090: yoshi_45
+    21300092: yoshi_46
+    21300094: yoshi_47
+    21300096: yoshi_48
+    21300098: yoshi_49
+    21300100: yoshi_50
+    21300102: yoshi_51
+    21300104: yoshi_52
+    21300106: yoshi_53
+    21300108: yoshi_54
+    21300110: yoshi_55
+    21300112: yoshi_56
+    21300114: yoshi_57
+    21300116: yoshi_58
+    21300118: yoshi_59
+    21300120: yoshi_60
+    21300122: yoshi_61
+    21300124: yoshi_62
+    21300126: yoshi_63
+    21300128: yoshi_64
+    21300130: yoshi_65
+    21300132: yoshi_66
+    21300134: yoshi_67
+    21300136: yoshi_68
+    21300138: yoshi_69
+    21300140: yoshi_70
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: yoshi_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 243
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 243
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 243
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 243
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 243
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 243
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_11
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 243
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 243
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 243
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 243
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_15
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 243
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 200
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 197
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 199
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 197
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 200
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 205
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_24
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 201
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 202
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_26
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 206
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_27
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 207
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_28
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 203
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_29
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 206
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 203
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 148
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 148
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_34
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 148
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 148
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 148
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 151
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_39
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 148
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_41
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 148
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_48
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_49
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_50
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 99
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_51
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 99
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_52
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 99
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 99
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_54
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 99
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_55
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 8
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 8
+        width: 20
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_57
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 20
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_58
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 8
+        width: 76
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_63
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 22
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_65
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 21
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 8
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_68
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 27
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_69
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 27
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: yoshi_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 240b3779b60331941a3ee8cb863ae7f6
+timeCreated: 1464852600
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background
+    21300002: Background_spawn
+    21300004: Background_descente
+    21300006: Background_spanw
+    21300008: Platform
+    21300010: Platform1x5
+    21300012: Platform1x2
+    21300014: MarioBros_0
+    21300016: MarioBros_1
+    21300018: Nuage_x3
+    21300020: Nuage_x2
+    21300022: Nuage_x1
+    21300024: Platform2x14
+    21300026: Platfrom2x7
+    21300028: Platform2x10
+    21300030: Buisson
+    21300032: Montagne
+    21300034: Tuyau_court
+    21300036: Tuyaux_moyen
+    21300038: Tuyaux_aggrandissement
+    21300040: Platform1x4
+    21300042: Escalier
+    21300044: Sky
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 18
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Background_descente
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 257
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128.5, y: 200.5}
+        - {x: -128.5, y: -200.5}
+        - {x: 128.5, y: -200.5}
+        - {x: 128.5, y: 200.5}
+    - name: Background_spanw
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 35
+        width: 207
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: 201.5}
+        - {x: -103.5, y: -201.5}
+        - {x: 103.5, y: -201.5}
+        - {x: 103.5, y: 201.5}
+    - name: Platform
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 265
+        width: 386
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -193, y: 18.5}
+        - {x: -193, y: -18.5}
+        - {x: 193, y: -18.5}
+        - {x: 193, y: 18.5}
+    - name: Platform1x5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 265
+        width: 81
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 19.5}
+        - {x: -40.5, y: -19.5}
+        - {x: 40.5, y: -19.5}
+        - {x: 40.5, y: 19.5}
+    - name: Platform1x2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioBros_0
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 362
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: MarioBros_1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 124
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nuage_x3
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 565
+        width: 63
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nuage_x2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 464
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Nuage_x1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 473
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Platform2x14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 34
+        width: 224
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Platfrom2x7
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 34
+        width: 112
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Platform2x10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 34
+        width: 160
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Buisson
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 64
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Montagne
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 64
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tuyau_court
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 281
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Tuyaux_moyen
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 46
+      alignment: 9
+      pivot: {x: 0.48716915, y: 0.51785177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.589413, y: 22.178818}
+        - {x: -15.589413, y: -23.821182}
+        - {x: 16.410587, y: -23.821182}
+        - {x: 16.410587, y: 22.178818}
+    - name: Tuyaux_aggrandissement
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Platform1x4
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 48
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Escalier
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 64
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 32}
+        - {x: -32.5, y: -32}
+        - {x: 32.5, y: -32}
+        - {x: 32.5, y: 32}
+    - name: Sky
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 402
+        width: 293
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -146.5, y: 109.5}
+        - {x: -146.5, y: -109.5}
+        - {x: 146.5, y: -109.5}
+        - {x: 146.5, y: 109.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
